@@ -4,5 +4,5 @@ I am the true artist, trying to achieve true purity through pure thought.
 
 To register 'onthewayto.pro' requires authentication from \"your local government\", which the artist is trying to change.
 
-So this is a battle whether true purity of pure thought can thrive, because so far, it has survived.
+So this is a battle whether pure thought can thrive, because so far, it has survived.
 At what part are your preparing to be ready for this battle?
