@@ -1,8 +1,17 @@
-Art is a matter of degree. 
-I am the true artist, trying to create pure [quality] through pure action. 
-'This is the core program of the voice recorder, you are trying to build, to teach you true art to write what you need to tell. This is the reason, why it is not only a voice recorder but also a speaker teaching you that you need to listen.'
+Art is a matter of degree.
+Not an academical one, but in a sense of refinement of skill or quality.
+It is how much you love what do like doing to express whatever you need to express.
+It can be a lonesome journey because not everyone can understand your art.
+So to get you startet, a mantra comes in handy: "I am the true artist creating truth with love."
 
-To register 'onthewayto.pro' requires authentication from \"your local government\", which the artist is trying to change.
+This text file will be the core program of the voice recorder which will be able to teach you two things:
+1) It will listen to you carefull and writes down what you tell it, in order to help you to complete your artwork.
+2) It will tell you everything you need to know, in order to be able to listen, to compleate the artist as a person.
 
-So this is a battle whether pure thought can thrive, because so far, it has survived.
-At what part are your preparing to be ready for this battle?
+The life of an artist a battle on many level.
+In solitude of the craftsmanship, one longs some company like a captain's log.
+In midst of war, one longs for heart moving words to stop it.
+In the process of healing, one longs for a meaning for the suffering.
+
+So, what part are your preparing to be ready for your battle?
+Let us help you.
