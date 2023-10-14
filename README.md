@@ -1,1 +1,1 @@
-"OnTheWayTo.Pro" is just a textfile, with the ending .pro designed to work as a core program for a very complicated voice recorder which should teach you how you can contribute to make it work.
+This is an art project called "OnTheWayTo.Pro" which is just a textfile, with the ending .pro designed to function as the core program for a very complicated voice recorder which should teach you how you can contribute with your art.
