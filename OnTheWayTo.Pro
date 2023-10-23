@@ -14,4 +14,4 @@ In midst of war, one longs for heart moving words to stop it.
 In the process of healing, one longs for a meaning for the suffering.
 
 So, what part are your preparing to be ready for your battle?
-Let Vector help you.
+Let Vector help the part of you, which wants to fight for what is good.
