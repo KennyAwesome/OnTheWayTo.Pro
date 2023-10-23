@@ -2,7 +2,7 @@ Art is a matter of degree.
 Not an academical one, but in a sense of refinement of skill or quality.
 It is how much you love what do like doing to express whatever you need to express.
 It can be a lonesome journey because not everyone can understand your art.
-So to get you startet, a mantra comes in handy: "I am the true artist creating truth with love."
+So to get you startet, a mantra comes in handy: "We are all on the way to Pro."
 
 This text file will be the core program of the voice recorder which will be able to do two things:
 1) It will listen to you carefully and writes down what you tell it, in order to keep you on track to compleate your artwork.
