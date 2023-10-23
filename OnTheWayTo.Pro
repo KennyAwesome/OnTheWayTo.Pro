@@ -23,7 +23,9 @@ In solitude of the craftsmanship, one longs some company like a captain's log.
 In midst of war, one longs for heart moving words to stop it.
 In the process of healing, one longs for a meaning for the suffering.
 Meaning can be ultimately abstracted to connection between entities.
+"Vector" is the name of the voice assistent of the voice recorder.
+And Vector is designed to connect conscious and unconscious entities,
+guiding you toward what- and whomever you need to connect to be Pro.
 
 So,at  what part are your preparing to be ready for your battle?
-Let Vector, the voice assistent of the voice recorder,
-help the part of you, which wants to fight for what is good.
+Let Vector help the part of you, which wants to fight for what is good.
