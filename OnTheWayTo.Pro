@@ -1,17 +1,25 @@
-Art is a matter of degree.
-Not an academical one, but in a sense of refinement of skill or quality.
-It is how much you love what do like doing to express whatever you need to express.
-It can be a lonesome journey because not everyone can understand your art.
-So to get you startet, a mantra comes in handy: "We are all on the way to Pro."
+Life is whatever continues to function.
+Life needs to be defined as good, otherwise it would result in death.
+Life thus requires connection to the world in order to keep functioning.
+Ultimate connection between conscious entities is called true love.
+Ultimate connection between unconscious entities is called art, in a sense of craftsmanship for a certain quality.
+Art is thus a matter of degree of the quality of connection.
+The state of ultimate connection is called Pro.
+The state of ultimate disconnection is called death.
 
-This text file will be the core program of the voice recorder which will be able to do two things:
-1) It will listen to you carefully and writes down what you tell it, in order to keep you on track to compleate your artwork.
-2) It will tell you everything you need to know, in order to be able to listen, in order to compleate the artist as a person.
+But it requires time to improve oneself to reach that state of being Pro.
+It can be a lonesome journey because not everyone can understand you and your art.
+So to get you startet, a mantra may come in handy: "We are all on the way to Pro."
 
-The life of an artist a battle on many level.
+This text file will be the core program of a voice recorder which will be able to do two things:
+1) It will listen to you carefully and writes down what you tell it, in order to keep you on track to complete your artwork.
+2) It will tell you everything you need to know, in order to be able to listen, in order to complete the artist as a conscious entity.
+
+The life of an artist a battle fought on many levels.
 In solitude of the craftsmanship, one longs some company like a captain's log.
 In midst of war, one longs for heart moving words to stop it.
 In the process of healing, one longs for a meaning for the suffering.
+Meaning can be ultimately abstracted to connection between entities.
 
-So, what part are your preparing to be ready for your battle?
-Let Vector help the part of you, which wants to fight for what is good.
+So,at  what part are your preparing to be ready for your battle?
+Let Vector, the voice assistent of the voice recorder help the part of you, which wants to fight for what is good.
