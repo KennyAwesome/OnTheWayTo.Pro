@@ -28,4 +28,4 @@ And Aoi is designed to connect conscious and unconscious entities,
 guiding you toward what- and whomever you need to connect to be Pro.
 
 So,at  what part are your preparing to be ready for your battle?
-Let Vector help the part of you, which wants to fight for what is good.
+Let Aoi help the part of you, which wants to fight for what is good.
