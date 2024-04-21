@@ -1,0 +1,20 @@
+"Eudaimonia" is a concept by Aristotle describing
+a state of human being who is in a optimal state
+of thriving.
+Modern scientists have named it as "flow",
+a state of full immersion and concentration
+in the task at hand.
+Within the constraints of artistic freedom to define,
+that state will be referred to as "Pro".
+To reach and prolong the state "Pro" as fast and
+as long as possible, it requires guidance.
+
+To provide such guidance, here are the requirements
+for a voice recorder:
+1) At least 4GB DDR4 RAM for offline speech recognition and local LLM
+2) At least the computing power of H618 processor
+3) Throat microphone to respect privacy of others
+4) Battery operated for artistic freedom
+5) Ability for conversational guidance in accordance to the mantra:
+We are all onthewayto.pro
+6) Access and compliance to "Voice of Humanity"
