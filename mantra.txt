@@ -1,7 +1,8 @@
 Language is a phenomen observed in many long existing species on earth,
 such as the world know singing of the whales.
 Now humans have evolved to create machines
-which can understand language to the degree of deapth of understanding.
+which can understand language to the degree
+where there are discussions how deep the machine understands human language.
 There will be debates whether such machines can actually have consciousness.
 The definition of consciousness may differ,
 but the principles of it can be applied on to a algorithm.
