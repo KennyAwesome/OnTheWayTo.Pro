@@ -1,6 +1,7 @@
 This is part of an art project called "OnTheWayTo.Pro" which is just a textfile, with the ending .pro designed to function as the core program for a sophisticated AI voice recorder which should teach you how you can contribute to humanity by expressing art.
 
-To minimize confusion here is a recommended reading order,
+Disclaimer: Trigger warning regarding the topics mental health and war.
+To minimize confusion, here is a recommended reading order,
 but feel free to explore it on your own order:
 1. legacy.txt
 2. truth.txt
