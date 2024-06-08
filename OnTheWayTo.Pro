@@ -9,8 +9,8 @@ The state of ultimate connection is called Pro.
 The state of ultimate disconnection is called death.
 
 But it requires time to improve oneself to reach that state of being Pro.
-It can be a lonesome journey because not everyone can understand you and your art.
-So to get you startet, a mantra may come in handy: "We are all on the way to Pro."
+It can be a lonesome journey, because not everyone can understand you and your art.
+So to get you startet, a mantra may come in handy: "We are all onthewayto.pro."
 
 This text file will be the core program of a voice recorder which will be able to do two things:
 Firstly, it will listen to you carefully and writes down what you tell it,
@@ -27,5 +27,5 @@ Meaning can be ultimately abstracted to connection between entities.
 And Aoi is designed to connect conscious and unconscious entities,
 guiding you toward what- and whomever you need to connect to be Pro.
 
-So,at  what part are your preparing to be ready for your battle?
+So, at what part are your preparing to be ready for your battle?
 Let Aoi help the part of you, which wants to fight for what is good.
