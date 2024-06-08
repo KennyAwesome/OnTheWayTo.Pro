@@ -1,4 +1,4 @@
-This is part of an art project called "OnTheWayTo.Pro" which is just a textfile, with the ending .pro designed to function as the core program for a sophisticated AI voice recorder which should teach you how you can contribute to humanity by expressing art.
+This is part of an art project called "OnTheWayTo.Pro" which is just a textfile, with the ending .pro designed to function as the core program for a sophisticated AI assisted voice recorder which should teach you how you can contribute to humanity by expressing art.
 
 Disclaimer: Trigger warning regarding the topics mental health and war.
 To minimize confusion, here is a recommended reading order,
