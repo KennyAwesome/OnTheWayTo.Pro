@@ -38,7 +38,7 @@ and no point being unhappy about things you can."
 	- More investment in sustainable innovations
 	- More research in safe places to live
 	- Fully autarkic hydroponic agricultural systems
-  - Working on an artsylum
+	- Working on an artsylum
 - (world) war:
 	- More application of wisdom through education
 	- Better means for resource distribution
@@ -46,8 +46,8 @@ and no point being unhappy about things you can."
 	- Better process or improvement of operation of governments
 - Artificial Intelligence/cyber warfare:
 	- Remaining a humanity worth keeping alive
-  - Decentralization
-  - Education about cyber security
+  	- Decentralization
+	- Education about cyber security
 - Declining birthrate:
 	- More support for caregivers
 	- More education about caregiving
@@ -55,8 +55,8 @@ and no point being unhappy about things you can."
 - Pandemic:
 	- Mention only, because it is a complicated and sensitive Topic
 - Asteroid:
-  - innovation in space travel
-  - longterm observation of celestial bodies
+	- innovation in space travel
+	- longterm observation of celestial bodies
 - Loneliness epidemic:
 	- Practice one's own ultimate art 
 	- Help others
