@@ -30,3 +30,4 @@ but feel free to explore it on your own order:
 25. hope.txt
 26. malevolence.txt
 27. civilization.txt
+28. catastrophe.txt
