@@ -18,11 +18,11 @@
 13. 天才.txt
 14. 欲求.txt
 15. 意味.txt
-16. 我.txt
-17. 約束.txt
-18. 芸術亡命.txt
-19. レシピ.txt
-20. 真言.txt
+16. 真言.txt
+17. 我.txt
+18. 約束.txt
+19. 芸術亡命.txt
+20. レシピ.txt
 21. 要件.txt
 22. OnTheWayTo.Pro
 23. 訃報.txt
