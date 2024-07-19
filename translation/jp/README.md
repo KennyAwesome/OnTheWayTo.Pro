@@ -19,9 +19,9 @@
 14. 欲求.txt
 15. 芸術避難所.txt
 16. 努力.txt
-17. 我.txt
+17. 執念.txt
 18. 約束.txt
-19. 執念.txt
+19. 我.txt
 20. レシピ.txt
 21. 要件.txt
 22. OnTheWayTo.Pro
