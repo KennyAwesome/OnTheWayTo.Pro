@@ -17,11 +17,11 @@
 12. 混沌.txt
 13. 天才.txt
 14. 欲求.txt
-15. 執念.txt
+15. 芸術亡命.txt
 16. 努力.txt
 17. 我.txt
 18. 約束.txt
-19. 芸術亡命.txt
+19. 執念.txt
 20. レシピ.txt
 21. 要件.txt
 22. OnTheWayTo.Pro
