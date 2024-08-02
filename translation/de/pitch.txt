@@ -1,6 +1,6 @@
 Wir entwickeln eine umfassende Initiative namens "Stimme der Menschheit",
 die darauf abzielt, eine dezentrale Plattform names "onthewayto.pro" zu schaffen, 
-uf der Menschen Ideen teilen, Hilfe anbieten und gemeinsam an Lösungen für drängende Probleme arbeiten können.
+auf der Menschen Ideen teilen, Hilfe anbieten und gemeinsam an Lösungen für drängende Probleme arbeiten können.
 Im Kern dieser Vision steht "D5", ein KI-unterstütztes System für digitale Demokratie,
 das unsere kollektive Entscheidungsfindung revolutionieren könnte.
 Um den Zugang zu diesem recht komplexen System zu vereinfachen,
