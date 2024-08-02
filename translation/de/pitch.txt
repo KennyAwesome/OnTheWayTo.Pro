@@ -1,7 +1,7 @@
 Stellen Sie sich eine Welt vor,
 in der Technologie und menschliche Kreativität gemeinsam globale Herausforderungen lösen.
 Wir entwickeln einen KI-gestützten Diktiergerät namens "Aoi",
-der Menschen dabei hilft, sich künstlerisch auszudrücken und mit anderen zu verbinden.
+das Menschen dabei hilft, sich künstlerisch auszudrücken und mit anderen zu verbinden.
 Dies ist Teil einer größeren Initiative namens "Stimme der Menschheit",
 die darauf abzielt, eine dezentrale Plattform zu schaffen,
 auf der Menschen Ideen teilen,
