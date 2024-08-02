@@ -1,4 +1,4 @@
-"Imagine a world where technology and human creativity unite to solve global challenges.
+Imagine a world where technology and human creativity unite to solve global challenges.
 We're developing an AI-powered voice recorder called "Aoi" that
 helps people express themselves artistically and connect with others.
 This is part of a larger initiative called the "Voice of Humanity",
