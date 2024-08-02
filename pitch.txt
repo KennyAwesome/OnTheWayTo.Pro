@@ -6,10 +6,13 @@ Our platform uses smart technology to match those
 who need help with those who can offer it.
 It's like a digital community center,
 but for the whole world.
-We believe that by bringing people together and giving them the right tools,
+We believe that by bringing people together and offering them the right tools,
 we can make life better for everyone.
 We're not just dreaming big - we've got a solid plan an
-we're already working on the technology to make it happen.
+we're already working on the technology to make it happen,
+such as an AI assisted voice recorder called "Aoi",
+an political forum and ballot system called "D5"
+and a platform called "Voice Of Humanity".
 By investing in OnTheWayTo.Pro, you're not just backing a business.
 You're helping to create a brighter future where everyone has a chance to shine and contribute.
 Join us in building a world where creativity,
