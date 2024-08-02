@@ -1,20 +1,13 @@
-Imagine a world where everyone helps each other and creates amazing things together.
-That's what OnTheWayTo.Pro is all about.
-We're building a special online space where people can connect,
-share their talents, and work on solving big problems.
-Our platform uses smart technology to match those
-who need help with those who can offer it.
-It's like a digital community center,
-but for the whole world.
-We believe that by bringing people together and offering them the right tools,
-we can make life better for everyone.
-We're not just dreaming big - we've got a solid plan an
-we're already working on the technology to make it happen,
-such as an AI assisted voice recorder called "Aoi",
-an political forum and ballot system called "D5"
-and a platform called "Voice Of Humanity".
-By investing in OnTheWayTo.Pro, you're not just backing a business.
-You're helping to create a brighter future where everyone has a chance to shine and contribute.
-Join us in building a world where creativity,
-kindness, and teamwork can solve any challenge.
-Let's make something amazing together.
+"Imagine a world where technology and human creativity unite to solve global challenges.
+We're developing an AI-powered voice recorder called "Aoi" that
+helps people express themselves artistically and connect with others.
+This is part of a larger initiative called the "Voice of Humanity",
+which aims to create a decentralized platform for people to share ideas,
+offer help, and collaborate on solutions to pressing issues.
+At the core of this vision is "D5",
+a system for digital democracy that could revolutionize how we make collective decisions.
+It leverages cutting-edge technology to ensure diverse voices are heard and represented.
+Our goal is to empower individuals, foster global cooperation,
+and harness human potential to build a better future.
+We believe that by combining innovative tech with human creativity and compassion,
+we can tackle even the most complex problems facing our world today.
