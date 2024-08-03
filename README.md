@@ -39,3 +39,4 @@ but feel free to explore it on your own order:
 34. VoiceOfHumanity.txt
 35. One.txt
 36. oath.txt
+37. encouragement.txt
