@@ -42,3 +42,4 @@ but feel free to explore it on your own order:
 37. encouragement.txt
 38. soul.txt
 39. strategy.txt
+40. aspiration.txt
