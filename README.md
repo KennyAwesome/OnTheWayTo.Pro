@@ -40,3 +40,5 @@ but feel free to explore it on your own order:
 35. One.txt
 36. honor.txt
 37. encouragement.txt
+38. soul.txt
+39. strategy.txt
