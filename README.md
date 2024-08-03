@@ -38,3 +38,4 @@ but feel free to explore it on your own order:
 33. D5.txt
 34. VoiceOfHumanity.txt
 35. One.txt
+36. farewell.txt
