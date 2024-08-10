@@ -23,8 +23,8 @@ but one may free to explore it on ones own order:
 5. strategy.txt
 6. encouragement.txt
 7. obituary.txt
-8. consciousness.txt
-9. aspiration.txt
+8. aspiration.txt
+9. consciousness.txt
 10. mantra.txt
 11. truth.txt
 12. obsession.txt
