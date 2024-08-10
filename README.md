@@ -20,7 +20,7 @@ but one may free to explore it on ones own order:
 2. One.txt
 3. pitch.txt
 4. legacy.txt
-5. realization.txt
+5. strategy.txt
 6. encouragement.txt
 7. obituary.txt
 8. consciousness.txt
@@ -38,12 +38,12 @@ but one may free to explore it on ones own order:
 20. history.txt
 21. friendship.txt
 22. honor.txt
-23. strategy.txt
+23. effort.txt
 24. benevolence.txt
 25. genius.txt
 26. normal.txt
 27. me.txt
-28. effort.txt
+28. realization.txt
 29. soul.txt
 30. enlightenment.txt
 31. promise.txt
