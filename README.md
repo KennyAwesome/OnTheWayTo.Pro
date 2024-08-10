@@ -1,10 +1,11 @@
-Disclaimer: Trigger warning regarding the topics such as mental health, science and war.
+Disclaimer: Trigger warning regarding the topics
+such as mental health, science and war.
 
-The title "42" of this collection of 42 documents is inspired by the following passage in
-"The Hitchhiker's Guide to the Galaxy" by Douglas Adams:
+The title "42 - Cheatsheet for survial artists" of this collection of 42 documents is inspired by
+the following passage in "The Hitchhiker's Guide to the Galaxy" by Douglas Adams:
 "The ultimate answer to life, the universe and everything is...42!"
-The author is aware of the humor,
-and  wants to point out that the validity of all statements made in this collection
+The author is aware of the humor expressed in the line,
+and wants to point out that the validity of all statements made in this collection
 has its limitations within the artistic freedom of expression of the author,
 and thus the author is not responsible for the action and its consequences,
 if the reader and user of this document commit an act contradicting local regulations.
