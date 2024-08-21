@@ -16,6 +16,8 @@ designed to function as the core program for an AI assisted voice recorder.
 
 Here is a recommended reading order by the auther to minimize confusion,
 but one may free to explore it on ones own order:
+
+Volume 1:
 1. README.md
 2. One.txt
 3. pitch.txt
@@ -58,4 +60,7 @@ but one may free to explore it on ones own order:
 40. protection.txt
 41. D5.txt
 42. VoiceOfHumanity.txt
+
+Volume 2 (in folder "manifest/vol2/"):
+1. responsiblity.txt
 
