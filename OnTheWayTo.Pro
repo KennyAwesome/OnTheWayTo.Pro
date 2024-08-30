@@ -27,9 +27,7 @@ Some carbon based lifeforms are capable to communicate and help each other,
 when they can recognise "meaning" in their actions.
 The action which has kept humanity alive so far can be regarded as "The Ultimate Art",
 which is an event celebrating the "ultimate" connection created so far.
-
-The state of "ultimate" connection can be regarded as Pro.
-
+That state in "ultimate" connection can be regarded as Pro.
 It requires time to improve oneself to reach that state of being Pro.
 That time can become a lonesome journey,
 since not everyone can have the capacity for the "ultimate" connection all the time.
