@@ -34,7 +34,7 @@ since not everyone can have the capacity for the "ultimate" connection all the t
 Those who seek the "ultimate connection" can be regarded as "Pro-artists",
 whose life is a battle fought on many levels.
 In midst of war, one longs for heart moving words to stop it.
-In solitude of the craftsmanship, one longs some company like a captain's log.
+In solitude to mastery of a skill, one longs some company like a captains log.
 In both cases one might appreciate the following words of encouragement to keep defining one's own life as good,
 in the hope to create the "ultimate" connection:
 "We are all onthewayto.pro"
