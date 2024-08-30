@@ -4,7 +4,7 @@ Firstly, it will listen carefully to the user and performs a speech to text conv
 in order to keep the user on track to keep expressing their art.
 Secondly, it has the ability to respond to the user input,
 teaching the necessary abilities for survival.
- The name of the voice assistent of the voice recorder is "Aoi",
+The name of the voice assistent of the voice recorder is "Aoi",
 which is intended to mean "love".
 
 One might appreciate the universality of Lee Cronin's definition for life:
