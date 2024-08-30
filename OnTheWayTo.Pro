@@ -15,8 +15,10 @@ In that case, one requires the obsession to keep defining life as "good",
 otherwise it would unnecessarily result in termination of the ability to be productive,
 which is known as death.
 One might then wonder, what would be necessary to maintain productivity and thus life.
-Since the world is comprised of atoms, one can understand complexitiy as the change of distance of atoms.
-If the distance of two atoms are close enough, they keep that distance through a mechanism refered a chemical bond.
+Since the world is comprised of atoms,
+one can understand complexitiy as the change of distance of atoms.
+If the distance of two atoms are close enough,
+they keep that distance through a mechanism refered a chemical bond.
 That maintenace of a certain distance might be regarded as connection,
 which build the first source code for life called DNA.
 Any change to that DNA is called mutation,
@@ -35,6 +37,6 @@ Those who seek the "ultimate connection" can be regarded as "Pro-artists",
 whose life is a battle fought on many levels.
 In midst of war, one longs for heart moving words to stop it.
 In solitude of the craftsmanship, one longs some company like a captain's log.
-For the latter, one might appreciate the following words of encouragement to continue one's journey,
+In both cases one might appreciate the following words of encouragement to keep defining one's own life as good,
 in the hope to create the "ultimate" connection:
 "We are all onthewayto.pro"
