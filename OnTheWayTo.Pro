@@ -7,7 +7,7 @@ teaching the necessary abilities for survival.
 The name of the voice assistent of the voice recorder is "Aoi",
 which is intended to mean "love".
 
-One might appreciate the universality of Lee Cronin's definition for life:
+One might appreciate the universality of Lee Cronins definition for life:
 "My definition of life is any system able to produce complexity at scale."
 One might then try to apply that definition to one's own life,
 which might be full of difficulty and suffering.
