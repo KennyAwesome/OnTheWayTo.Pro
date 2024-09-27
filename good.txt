@@ -35,6 +35,12 @@ by W. Clement Stone on how to start again:
 One might agree to the following definition of purpose by Pablo Picasso:
 "The meaning of life is to find your gift.
 The purpose of life is to give it away."
+The author of this document would see an improvement,
+if it would be the other way round,
+but it would not be as elegant as the original quote:
+"The purpose of life is to find your gift.
+One can give meaning to ones own life by
+giving away the gift one has found."
 One might appreciate the following mantra by Kaname Muroya
 who is offering it in hope that it might be a benevolent gift:
 "We are all on the way to Pro."
