@@ -13,29 +13,27 @@ Direct democracy is generally difficult to implement because it would require en
 Democracy by humans is necessary to avoid fatal errors through full automation.
 
 __________
-
 The D5 requires the following to operate:
-1) Citizens with access to the system.
-	1.1) Creative and knowledgable citizens, who come up with a solution to a problem and does research whether that solution is actually viable and discusses it with other citizens in a thread.
-	1.2) Fast and decisive citizens: Their role is to understand the proposed solutions, compares them and decides as fast as possible which is the one which the most chance or least damage.
-	1.3) Volunteer announcers: If a decision has been decided, it will be announced as soon as possible in the government if enough representation can happen.
-2) Administrators, who maintain the system. The core system will be open source, so anyone can review the system and improve it. There need to be enought administrators, who can be paid eventhough volunteering is desirable, so bugs can be fixed as soon as possible and the webservice is constantly kept online. Only practive will tell how many people are required, but at least 6 with an 8 hour shift to guarantee 24/7 coverage and one person can be sick.
+1. Users/Citizens with access to the system.
+1.1 Creative and knowledgable citizens, who come up with a solution to a problem and does research whether that solution is actually viable and discusses it with other citizens in a thread.
+1.2 Fast and decisive citizens: Their role is to understand the proposed solutions, compares them and decides as fast as possible which is the one which the most chance or least damage.
 
-3) Webservice
-3.1) Many decentral servers will be offering the webservice as a whole.
-3.2) The data will be stored in decentral servers and there will be mechanism in place that the running code cannot diverge from the main repository, which will be hosted also decentrally.
-3.3) Decentral anonymized and encrypted user database will authenticate legitimate citizens, which will be 
+2. Operating Personell:
+2.1. Administrators, who maintain the system. The core system will be open source, so anyone can review the system and improve it. There need to be enought administrators, who can be paid eventhough volunteering is desirable, so bugs can be fixed as soon as possible and the webservice is constantly kept online. Only practive will tell how many people are required, but at least 6 with an 8 hour shift to guarantee 24/7 coverage and one person can be sick.
+2.2. Operators to verify users and other operators.
+2.3. Moderators: Moderating the discussions channels
+2.4. Verifiers: Verifying new knowledge entries
+2.5. Coordinators: Who coordinates shifts and other organizational tasks
 
-4) User interface
-4.1) A Webapplication will be providing all the neceassary functions, which can be hosted on each nodes but the running code cannot diverge from the main repository.
-4.2) An "official" application will be provided, since clients can be vulnable to attacks.
-4.3) If the voice recorder of onthewayto.pro is ready, the webservice cann be accessed over the voice recorder.
+3. Technical infrastructure
+3.1. Source code
+3.2. Servers (will be explained later)
+3.3. Client devices (ideally an voice recorder developed by onthewayto.pro, but any device with access to internet and sufficient computation power would do)
+3.4. Physical location (to send/receive letters, technical support, residence/bureau for personell, etc)
 
-5) Bots
-5.1) There will be bots participating as moderators which will also be open source and cannot diverge from the main repository.
-5.2) There is a protocol where the bots try to allocate the thread with the most activity to the moderator bot with the most resources.
-5.3) Research bots: They can request to start a new thread, but cannot vote in a thread, can be customized.
+4. Voice Of Huaminty Foundation funding the administrators, operators, moderators, coordinators and the necessary technical infrastructure.
 
+5. Local political party with representatives, who have authorized access to D5 system. So if a decision has been decided, to announce it as soon as possible in the local legislative organ.
 ________
 
 Workflow for a decision:
@@ -57,40 +55,37 @@ Workflow for identifying a specific problem:
 2) The system trys to give an answer using bots, searching in other threads.
 3) If the bot does not find an viable answer or if the citizen is not satisfied with an answer,
 a thread with a topic can be started.
-
-________
-
-Principles of the moderator bot:
-  - If moderator bot removes a comment, that removed comment need to be:
-	- publically avaiable
-	- the author can request it to be reviewed by a member of the channel if falsely removed
-  - A comment needs to:
-	- refer to a verified knowledge base entry
-	- comply to the publication policy
-
-________
-Publication Policy:
- - Be kind, speak truthfully, say useful things.
 ________
 
 Failsafe mechanisms:
 - Human Representative.
 - That human representative can request a predefined volunteer of a channel as expert to be present at congress.
 - Decentralization of the system.
-- System can be accessed with ad hoc mesh network off grid (meshtastic)
+- System could be accessed with ad hoc mesh network off grid (meshtastic)
 - Human moderators supervise AI moderators
-- Corrupt representative can be deelected by the citizens swiftly.
+- Corrupt representative can be deelected by the authorized ballot participants swiftly.
+- Operators of the Voice of Humanity foundation provides trustable operators.
+- The Voice of Humanity foundation will fund trustable operators including the supreme administrator.
 
 ________
 Current tech stack:
-1. Client-Device: supports Decentral communication Protocol (e.g. Lemmy)
+1. Client-Device:
+	- Internet connection with a centralized REST server providing access to read only access to channels.
+	- The instance of the centralizes REST server can be chosen by the user from the official list hosted on the Voice of Humanity foundation.
+	- Optional features because it requires enough computing power for verification of data integregity. If hosted, it can work as a gateway with write access, usually exceeding the capabilities of commonly affordable smartphone:
+		- hosting a minimal unauthorized node decentral communication Protocol with write access to channels
+		- hosting a minimal authorized node for decentral communication Protocol with write access to ballots
 
 2. Server:
-2.1 Public Server with moderator bots managing an instance of the decentral social media platform (e.g. Lemmy).
-2.2 One Bootstrapping Node for stand alone Filecoin/Lotus with the "main" cryptowallet, which address is stored in a etherum smart contract application.
-2.3 At least two other Bootstrapping Nodes for 2.2, ensuring the operation of the keeping the "main" cryptowallet up to date with the etherum smart contract application.
-2.4 At least three independet server hosting a Filecoin/Lotus full node backing up the posts,  which stores all the information to a append only local lmdb, pushing periodically the change to the Filecoin/Lotus. (Need to evalutate this)
-2.6 At least one decentral server where anyone can browse through the channels, which data is periodically pulled directly from Filecoin/Lotus network, running RSS feed server for each channels
+2.1 P2P authorized node as bootstrapping nodes forked custom instance of radicle and  forked custom instance of verizexe (Multiple independent instances desireable)
+2.2 P2P authorized node with radicle like decentral repo hosting source code and also the public data (discussion channels, ballot results, knwoledge base) and private data (Blacklist, each ballot votes) with write access
+2.3 P2P unauthorized node with radicle like decentral repo hosting source code and also the public data (discussion channels, ballot results) and private data (Blacklist, each ballot votes) with only read access
+2.4 P2P authorized node with read only access to public data interfacing a centralized REST server for quick information access.
+2.5 P2P authorized node with code review bot, verifying request for change and initiating a ballot of the code maintainance team
+2.6 P2P authorized node with with moderator bots responsible for blacklisting nodes for each channels if a malitious intent was recognized, before blacklisting human moderator need to review that malitious action.
+2.7 P2P authorized node for quiz generator, submitting quiz to human verifiers 
+2.8 P2P authorized node for authorization (of users, operators, domains to centralized server as information source)
+2.9 P2P authorized node for managing "main" cryptowallet managing all the Filecoin/Verizexe-coin, which address is hard coded and the private key is typed in manually by the highest administrator.
 
 ________
 
@@ -99,6 +94,9 @@ MISC:
 - Knowledge Base:
 - decentralized webhosting:
 	- Decentral Open source code base: https://radicle.xyz/
+	- Decentral private computing: https://github.com/EspressoSystems/veri-zexe
+	
+Outdated reserach notes:
 	- Decentral Storage: https://www.ethswarm.org/
 	- Decentral webhosting: https://ipfs.tech/
 	- Decentral Database:  "proof of spacetime"
@@ -109,24 +107,70 @@ MISC:
 
 ____________
 Known yet unsolved problems:
-- Verification process of the knowledge base
+- Verification process of the knowledge base/quiz
 	- Writing history through corrupt historians problem
-		- only an expert human can verify, but it means that it will be a bottleneck
-	- Black List Problem: Ethical, Practical
-	- Bot war Problm (Moderator Bot doesn't work as expected and goes rogue)
-- Decentralization:
-	- Load Balancing to independent P2P instances requires more research
-	- Currently there are decentrally managed domains (e.g. .onion), but there is a need for single point of entry. ("decentral domains" for wallet are not it)
-	- The instance of moderator bot needs to be uncorruptable, but it means centralization.
-	- Verification of code integrity on other nodes is difficult, because at the point it is open source, everyone can modify it, so that it can fake the result of the check, whether the source code was altered.
-	- A pragmatic approach is to limit decentralization to the method of access of the system and storage of the discussion and keep the instance of the moderator bot central.
+	- only an expert human can verify, but it means that it will be a bottleneck
+	- And discussing it in public channels means that it will leak the information
+	- And discussing it in private channels is against transparency.
 - Cheating during knowledge tests:
 	- If the user cheats during tests (or malicious bot), then it could have sufficient knowledge to stay in the thread and propergate false information. Doing it with "trusted" people, has limitation on expertise, time and resources. For most people a test in a booth without electronics would be ideal, but it requires authorized and correct operation of that institution, which is difficult to ensure.
-- Local poll application: People would give up their anonlymity for the verification process of the voting.
 __________
 Solved Problems:
 - What to do, if the system is inaccessible for some reason? (Coup d'etat problem) -> Decentralation (Offline First Principle)
-- Organized Radicalist group with bad intentions creates a fake majority (Radicalist problem) -> Black list on Etherum Smart Contract (Black Listing Process needs to be defined)
+- Organized Radicalist group with bad intentions creates a fake majority (Radicalist problem) -> Black list 
+- Black List Problem: Ethical, Practical -> If someone does not pass the test, there is a ballot from that channel whether to actually black list that instance,
+where the users can see the answer to the question.
 - Prioritization of Nodes Problem If filecoin is used, the each nodes needs to donate the filecoin back to the account of the "main" node or so called "bootstrap" node,
-which address will be documented in the etherum smart contract.
+which address will be documented in the etherum smart contract. -> Filecoin will not be used, but verizexe
 - Fake accounts problem (Verification of nodes can be done by main node of local government)
+- No need for Load Balancing if the P2P instances are truely p2p (verizexe using off chaing computation)
+- Currently there are decentrally managed domains (e.g. .onion), but there is a need for single point of entry. ("decentral domains" for wallet are not it) -> p2p nodes may offer API to interact with federated frontend servers for ease of access
+- Verification of code integrity of nodes:
+	1. through homomorphic cryptography and zero knowledge protocols enable decentral private computation, the source code will be hosted decentrally, hardcoding the repo adress into the source code, the code for CI/CD is also hosted there, the compilation is also zero knowledge cryption and the execution environment can also be zero knowledge even though it may be expensive to calculate. It will probably based on nexus-zkvm.
+	 Incorporating radicle-repos into zkvm uncorruptable repo
+	2. The procedure for RFC (Request for Change) is unchangable
+	3. Everyone who manages to remain in the code maintenance team for at least a year can submit a pull request for code review by an bot
+	4. The code review checks that the changes are not violating against the procedures for RFC or changes to it
+	5. If the code review bot has check it, there is a vote  by the code maintenance team to accpet that RFC to the code base and triggers CI/CD workflow.
+	6. Hosting bot instances are optional (Code review, moderator, quiz generator, explainer)
+- Bot war Problm (Moderator Bot doesn't work as expected and goes rogue) -> Different bot is in charge of code review
+- Representative problem: There might be a possibility for the representative to become prime minister or similar roles for which it is required to make own decisions based on classified information. Therefore that representative need to decline such roles. Otherwise that representative will be subject of a ballot of reelection. If that representative is reelected, it means that the system and its users has reached its limits to prevent such events. One may only hope that the decisions of the representative could be referred as benevolent.
+- How to handle local polls? -> it is done outside of the system and thus irrelevant for the system. The polls made within this system are just for making suggestions to the local council and reelecting representatives for that local council if there are enough supporters to found a local politcal party.
+- Authorization of nodes and users:
+	- Since everyone is free to join, there is a problem of flooding with nodes operated by bots/humans for malicious intent.
+	- One solution approach is authorization for instanciation
+	- Every ballot instance needs to be authorized
+		- 1. Every operator from the identity verification service needs access to the system for the purpose of authorization.
+		- 2. Every operator will be verified by trusted operators of the Voice of Humanity foundation and the validity need to be updated at least annualy.
+		- 3. A citizen of a specific country from the local legal age for voting may request a verification through the system.
+			- There will be a simple quiz about the system to verify that they understand what they are applying for.
+			- Then typing in all the nessary infomation (Name, Email)
+			- The system will permanently store it together with a unique node ID, but the list is private and it is only possible to ask whether a user is already black listed or not.
+		- 4. They will receive an email containing a link and a one time key to the specified address which will start a identity verification process with authorized third party operators.
+		- 5. The user is authorized if the operator type it into the system. 
+		- 6. If a operator has authorized malicious users over a certain threshold regardless of the intention, the node of that operator will be suspended and that operator will be black listed by the system.
+		- 7. All users authorized by the corrupt operator, will be temporalily be excluded from ballots until reverification.
+		- 8. If that reverification does not happen in time, that user will be permanently blacklisted.
+
+_____________
+Notes on implementation of the bots:
+1. Code review bot
+
+
+2. Moderator bot:
+2.1 Principles of the moderator bot:
+  - If moderator bot removes a comment, that removed comment need to be:
+	- publically avaiable
+	- the author can request it to be reviewed by a member of the channel if falsely removed
+  - A comment needs to:
+	- refer to a verified knowledge base entry
+	- comply to the publication policy
+2.2 Publication Policy:
+- Be kind, speak truthfully, say useful things.
+- If you recognizse malitious action, report that action actively to the moderators. 
+
+
+3. Quiz generator bot
+
+
+4. Explainer bot
