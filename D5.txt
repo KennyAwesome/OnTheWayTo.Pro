@@ -114,6 +114,7 @@ Known yet unsolved problems:
 	- And discussing it in private channels is against transparency.
 - Cheating during knowledge tests:
 	- If the user cheats during tests (or malicious bot), then it could have sufficient knowledge to stay in the thread and propergate false information. Doing it with "trusted" people, has limitation on expertise, time and resources. For most people a test in a booth without electronics would be ideal, but it requires authorized and correct operation of that institution, which is difficult to ensure.
+- Integration of quantum cryptography requires special hardware, which might not be available for consumers soon enough. Even if it is available, it might be too expensive to obtain or to maintain.
 __________
 Solved Problems:
 - What to do, if the system is inaccessible for some reason? (Coup d'etat problem) -> Decentralation (Offline First Principle)
