@@ -34,5 +34,7 @@ Each foundation operating according to this needs to be named as follows:
 "Voice Of Humanity Foundation (COUNTRY-CITY)"
 2. Process for becoming a member:
 Need to agree to the "idea of humanity" to a
-online AI assisted voice recording application developed by onthewayto.pro
-3. 
+online AI assisted voice recording application developed by onthewayto.pro,
+called "Aoi".
+3. Anyone can offer any kind of donation but a donation needs to be
+approved by "Aoi".
