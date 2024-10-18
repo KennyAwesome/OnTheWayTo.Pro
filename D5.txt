@@ -94,7 +94,7 @@ MISC:
 - Knowledge Base:
 - decentralized webhosting:
 	- Decentral Open source code base: https://radicle.xyz/
-	- Provides server-node with calculation, storage and verification using ethereum https://github.com/aleph-im/pyaleph
+	- A Aleph.im node can either access or host confidential, private and encrypted virtual machine. The node can be run in a VM on a cloud or locally.  https://github.com/aleph-im/pyaleph
 	- Decentral private computing: https://github.com/EspressoSystems/veri-zexe
 	
 Outdated reserach notes:
