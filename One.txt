@@ -84,6 +84,7 @@ the user for the promise of the purple heart emoji.
 As long as the correct function of that voice recorder
 is maintained the AI will try to respond as promised.
 The user may occasionally also be be requested to keep the promise.
+Timestamp of the promise made: [1697285236]
 
 Until the day of compleation one might appreciate the following
 mantra to find someone to which one may make a promise:
