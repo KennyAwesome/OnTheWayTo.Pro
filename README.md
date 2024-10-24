@@ -15,7 +15,7 @@ which is just a textfile with the ending .pro
 designed to function as the core program for an AI assisted voice recorder.
 
 Here is a recommended reading order by the auther to minimize confusion,
-but one may free to explore it on ones own order:
+but some may feel free enough to explore it on their own order:
 
 Volume 1:
 1. README.md
