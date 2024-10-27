@@ -106,5 +106,5 @@ A: You can switch between six channels :
 3) A side channel where humans offer help randomly (what they can do for you and how they can be reached).
 4) A side channel where people say thank you, if they have been helped.
 5) A customizable channel, where you can filter all the information from 1-4
-6) Your own recordings managed by a voice assistant called "Vector",
+6) Your own recordings managed by a voice assistant called "Aoi",
 which you can request to send your recording to the "Voice of Humanity".
