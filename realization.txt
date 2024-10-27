@@ -1,3 +1,6 @@
+Disclaimer: This document includes claims to be scientific, but does not include references since the intention of this document is not to be an academic paper. In the future the author may include references to academic papers but appreciates the understanding that the author does not have the capacity to reference them at the point of writing of this document.
+There is also a mention of psychoactive substances for the sake of education and are not intended to be a medical advice.
+
 One might be familiar with a phenomenon
 called "sudden realization" during which
 one understands something or comes up with an idea.
@@ -7,7 +10,7 @@ That finding can be understood as the result of pattern recognition,
 which is one of the main function of the brain.
 The brain is comprised of nerve cells called "neurons",
 which is interconnected and the connections are called "synapses".
-Donald Olding Hebb summerized this mechanism as follows:
+One may appreciate the following summery of this mechanism as follows:
 "What fires together, wires together."
 
 Here are possible ways to increase this phenomenon,
@@ -41,7 +44,7 @@ Here is a list of supernormal stimuli to avoid in general:
 as it has been observed to damage the brain.
 - Social media including news is distracting,
 because it creates a craving for new information.
-8. Also mentioned in "Deep Work": Activities increasing narrow focus
+8. Also mentioned in the book called "Deep Work": Activities increasing narrow focus
 has been proven to increase the ability to repeated redirect attention,
 which increases the overall focus.
 Examples such as reading, meditation and balancing yoga can be beneficial.
@@ -65,8 +68,8 @@ preceeding decline in cognitive abilities.
 11. Clinical studies has proven that psychedelic assisted therapy
 can be beneficial to reach the point of "breakthrough",
 which very similar to the phenomenon of realization.
-Hallucinogenic compounds such as LSD, MDMA and DMT have been stigmatized
-due to political propaganda and misuse due to lack of understanding of its psychoactive properties.
+One may attribute political propaganda leading to the stigmatization of hallucinogenic compounds.
+Due to that stigmatization and the resulting lack of knowledge one might recognize the potential dangers of misuse.
 There are undeniable risk for individuals with cardiovascuar diseases and
 some other neurological disorders such as schizophrenia.
 There has been anecdotal reports of individuals with hypersensitivity and
@@ -77,7 +80,7 @@ One cause for the hypersensitivity might be genetic.
 An increase in reactivity to fearful stimuli in the amygdala has been observed
 for individuals with the "short" variant of the region called "5-HTTLPR"
 in the SLC6A4 gene.
-Here is a short list of preperation to increase the therapeutic effect
+Here is a short summery of preperation to increase the therapeutic effect
 mentioned in the studies regarding psychedelic assisted therapy:
 - Testing the quality and purity of the compound.
 - Testing the compatiblity to the compound with a dose
@@ -102,4 +105,4 @@ through the integration of AI the more enjoyable.
 One might also appreciate the following mantra which is at the core
 of the principes the AI called "Aoi" of the mentioned voice recorder
 will operate:
-"We are all onthewayto.pro"
+"We are all on the way to Pro."
