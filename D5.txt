@@ -1,3 +1,6 @@
+Disclaimer: This document is just a collection of ideas on the possible approach for the technical implementation of a democratic system and is not intended to be an appell to overthrow an real existing government.
+If there is an issues in this document which might be in contradiction to that intention the feedback for improvement will be appreciated and this document will be updated as soon as possible. 
+
 "D5" stands for Digital Decentral Diverse Direct Democracy:
 
 A lot of current govermental functions require still analog bureaucracy, which decreases the speed of processing and wastes valuable resources. 
