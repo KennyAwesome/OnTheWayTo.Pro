@@ -13,7 +13,8 @@ The title of this book is inspired by the following passage from another book ca
 The author is aware of the arbitrarity of that number in the line expressed with humor.
 The author is yet is excited by the idea to explore the possibility to make that sentence true for someone, who is willing to deduce an answer through a book which may be referred as "42".
 The author intends to keep offering free access to the book but appreciates donation or purchase of the book to fund an non profit organization called "Voice Of Humanity".
-Details are described in the chapters "foundation" and "humanity" but the overall goal of the organization is to enable anonymous collaboration to find solutions to the problems humanity is facing.
+The overall goal of the organization is to ensure the correct operation of a anonymous collaboration platform called "D5" to find solutions to the problems humanity is facing.
+Details are described in the chapters "foundation", "humanity" and "D5".
 To achieve that the essays are written in a way, which should increase the degree of automation during the generation of a knowledge database.
 That knowledge database which will be able to be accessed by an artificial intelligence application to generate more user friendly answer.
 That application will utilize only open source tools and all the necessary resouces will be open source to enable a self-hosted instance.
