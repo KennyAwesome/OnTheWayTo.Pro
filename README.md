@@ -1,21 +1,24 @@
 Disclaimer: Trigger warning regarding the topics such as mental health, science, metaphysics and politics.
 For all the other legal disclaimers please refer to the disclaimer chapter.
 
-The title "42 - Cheatsheet for survial artists" of this collection of 42 documents is inspired by the following passage in "The Hitchhiker's Guide to the Galaxy" by Douglas Adams:
-"The ultimate answer to life, the universe and everything is...42!"
-The author is aware of the humor expressed in the line, and wants to point out that the validity of all statements made in this collection has its limitations within the artistic freedom of expression of the author.
-
-This document is part of an art project called "OnTheWayTo.Pro" which is a selected collection of 42 philosophical essays meant to be used as a source for a knowledge database. That knowledge base will be called as a function by an agent application using an LLM for retrieval argumented generation to generate an answer.
-The purpose of the answer to offer advices to stay alive and to reach a state of being which might be able to referred as "thriving".
+The book with the title "42 - Cheatsheet for survial artists" is part of a larger art project called "OnTheWayTo.Pro".
+The book is an selected collection of 42 philosophical essays aiming to offer advices and encouragements to stay alive and to strive for a state of being which might be able to referred as "thriving".
 The author wants to emphasize the fact that these advices are not meant as medical advices and those who are in need of medical advices are advised to consult local health care professionals.
-This project aims to offer the source code for a self-hostable webservice supporting P2P network protocols capable of transmitting voice messages and text messages securely with E2E encryption and zero knowledge consensus mechanisms.
-The webservice will have the capability to interact with with other instances through a P2P protocol enabling the capabilities to interact with other users.
-The author wants to emphasize that the author is not and cannot be held responsible any harm resulting from such interaction.
-It will be possible to configure the webservice in such a way that it does not have access to such P2P networks.
-This project further aims to offer the source code and design to accessing that webservice through an network enabled microphone utilizing a throat microphone for privacy given the capability to record anywhere and anytime.
-
-The author does not endorse any forced interaction with any resource related to this project and wants to emphasize that all usage of any resource of this project is happening deliberately by the user.
-The author appreciates all the future effort to point out such occurences or potential for auch occurences to prevent further damage.
+The title of this book is inspired by the following passage from another book called "The Hitchhiker's Guide to the Galaxy":
+"The ultimate answer to life, the universe and everything is...42!"
+The author is aware of the arbitrarity of that number in the line expressed with humor.
+The author is yet is excited by the idea to explore the possibility to make that sentence true for someone, who is willing to deduce an answer through a book which may be referred as "42".
+The author intends to keep offering free access to the book but appreciates donation or purchase of the book to fund an non profit organization called "Voice Of Humanity".
+Details are described in the chapters "foundation" and "humanity" but the overall goal of the organization is to enable anonymous collaboration to find solutions to the problems humanity is facing.
+To achieve that the essays are written in a way, which should increase the degree of automation during the generation of a knowledge database.
+That knowledge database which will be able to be accessed by an artificial intelligence application to generate more user friendly answer.
+That application will utilize only open source tools and all the necessary resouces will be open source to enable a self-hosted instance.
+The default configuration of the application will access other instances through a decentralizes network protocol, but can be configured without the access to such network.
+The application will act as a gateway to support a wide range of client applications.
+The project aims to offer a design for a network enabled throat microphone with the custom wake word "Aoi" to access the mentioned application and network.
+Details can be found in the chapter "requirements".
+The only part of this project which will not be open source is the data which the custom wake word will be trained on to protect the privacy of the volunteers who donated their voice. This may disqualify for an "open source" project, therefore the designs and resources of that client application will be on a seperate repository.
+Those who seek to help donate their voice might find details about the event in the chapter "events".
 
 Here is a recommended reading order by the auther to minimize confusion,
 but some may feel free enough to explore it on their own order:
