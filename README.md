@@ -1,5 +1,5 @@
 Disclaimer: Trigger warning regarding the topics such as mental health, science, metaphysics and politics.
-For all the other legal disclaimers please refer to the disclaimer chapter.
+For all the other legal disclaimers please refer to the chapter "disclaimer".
 
 The book with the title "42 - Cheatsheet for survial artists" is part of a larger art project called "OnTheWayTo.Pro".
 The book is an selected collection of 42 philosophical essays aiming to offer advices and encouragements to stay alive and to strive for a state of being which might be able to referred as "thriving".
