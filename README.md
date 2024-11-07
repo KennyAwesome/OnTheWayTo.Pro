@@ -30,8 +30,8 @@ but some may feel free enough to explore it on their own order:
 
 Version 2:
 1. disclaimer
-2. needs
-3. 
+2. README
+3. needs
 4. intuition
 5. peace
 6. good
