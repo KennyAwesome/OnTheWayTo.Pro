@@ -38,7 +38,7 @@ Version 2:
 7. privilege
 8. obsession
 9. health
-10. principle
+10. harmony
 11. malevolence
 12. friendship
 13. honor
@@ -72,8 +72,6 @@ Version 2:
 41. foundation D5 
 42. promise
 
-harmony
-hesitation
 me
 originality
 requirements
