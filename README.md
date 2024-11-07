@@ -29,46 +29,53 @@ Here is a recommended reading order by the auther to minimize confusion,
 but some may feel free enough to explore it on their own order:
 
 Version 2:
-1. disclaimer.txt 
-2. needs.txt
-3. intuition.txt
-4. history.txt
-5. good.txt
-6. privilege.txt
-7. obsession.txt
-8. health.txt
-9. strategy.txt
-10. malevolence.txt
-11. order.txt
-12. friendship.txt
-13. honor.txt
-14. humor.txt
-15. civilization.txt
-16. home.txt
-17. artsylum.txt
-18. loyalty.txt
-19. protection.txt
-20. encouragement.txt
-21. hesitation.txt
-22. integrity.txt
-23. obituary.txt
-24. obedience.txt
-25. satisfaction.txt
-26. hope.txt
-27. meaning.txt
-28. effort.txt
-29. transcendence.txt
-30. love.txt
-31. enlightenment.txt
-32. consciousness.txt
-33. realization.txt
-34. codependence.txt
-35. benevolence.txt
-36. ideology.txt
-37. normal.txt
-38. mantra.txt
-39. ultimate.txt
-40. humanity.txt
-41. D5.txt
-42. prediction.xt
+1. disclaimer
+2. attribution
+3. needs
+4. intuition
+5. peace
+6. good
+7. privilege
+8. obsession
+9. health
+10. corruption
+11. malevolence
+12. friendship
+13. honor
+14. humor
+15. civilization
+16. home
+17. artsylum
+18. loyalty
+19. protection
+20. 
+21. hesitation
+22. integrity
+23. obituary
+24. disobedience
+25. contentment
+26. hope
+27. meaning
+28. effort
+29. transcendence
+30. prompt
+31. enlightenment
+32. consciousness
+33. realization
+34. codependence
+35. benevolence
+36. ideology
+37. normal
+38. mantra
+39. ultimate
+40. humanity
+41. D5
+42. foundation
+
+harmony
+hesitation
+me
+originality
+requirements
+connection
 
