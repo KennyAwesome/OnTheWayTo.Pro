@@ -30,8 +30,8 @@ but some may feel free enough to explore it on their own order:
 
 Version 2:
 1. disclaimer
-2. attribution
-3. needs
+2. needs
+3. 
 4. intuition
 5. peace
 6. good
@@ -68,9 +68,9 @@ Version 2:
 37. normal
 38. mantra
 39. ultimate
-40. humanity
-41. D5
-42. foundation
+40. humanity 
+41. foundation D5 
+42. promise
 
 harmony
 hesitation
