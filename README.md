@@ -29,12 +29,12 @@ Here is a recommended reading order by the auther to minimize confusion,
 but some may feel free enough to explore it on their own order:
 
 Version 2:
-1. disclaimer
-2. README
-3. needs
-4. intuition
-5. peace
-6. good
+1. needs
+2. intuition
+3. peace
+4. good
+5. 
+6. joy
 7. privilege
 8. obsession
 9. health
@@ -48,7 +48,7 @@ Version 2:
 17. artsylum
 18. loyalty
 19. protection
-20. 
+20. originality
 21. hesitation
 22. integrity
 23. obituary
@@ -69,11 +69,11 @@ Version 2:
 38. mantra
 39. ultimate
 40. humanity 
-41. foundation D5 
-42. promise
+41. foundation
+42. D5 
 
-me
-originality
+
+promise 
 requirements
 connection
 
