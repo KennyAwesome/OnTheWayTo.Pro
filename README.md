@@ -38,7 +38,7 @@ Version 2:
 7. privilege
 8. obsession
 9. health
-10. corruption
+10. principle
 11. malevolence
 12. friendship
 13. honor
