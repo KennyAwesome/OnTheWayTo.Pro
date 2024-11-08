@@ -62,7 +62,7 @@ Version 2:
 31. enlightenment
 32. consciousness
 33. realization
-34. codependence
+34. maturity
 35. ideology
 36. normal
 37. mantra
