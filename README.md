@@ -33,7 +33,7 @@ Version 2:
 2. intuition
 3. peace
 4. good
-5. 
+5. benevolence
 6. joy
 7. privilege
 8. obsession
@@ -63,17 +63,13 @@ Version 2:
 32. consciousness
 33. realization
 34. codependence
-35. benevolence
-36. ideology
-37. normal
-38. mantra
-39. ultimate
-40. humanity 
+35. ideology
+36. normal
+37. mantra
+38. ultimate
+39. humanity 
+40. D5
 41. foundation
-42. D5 
+42. promise
 
-
-promise 
-requirements
-connection
 
