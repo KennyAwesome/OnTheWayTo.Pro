@@ -6,28 +6,56 @@ One might encounter such words:
 Those who seek health might appreciate the following definition:
 "Health is a state of complete physical, mental and social well-being, not merely the absence of disease or infirmity."
 Those who seek health beyond the limitations of health care professionals might appreciate the following enumerations of practises the author finds useful to know:
-"To attain physical compleateness one might appreciate the to know, that the body can be understood as whatever processes an input and creates an output."
+"To attain physical compleateness one might appreciate the to know, that the body can be understood as whatever processes an input and creates an output. The range and optimum might vary between individuals and therefore it might important to figure out one's own optimum. To figure out the optimum, it might be necessary to figure out the kind of variables and a methodology to measure them.
+Starting with list of physiological inputs:
+1. Nutrition
+Nutrition is a highly controversal topic, because a part of the concept of "health" is based off of the absence of diseases.
+So depending on whatever diseases one might have, whatever might be heathy might vary.
+Given the the author is based off of homo sapiens sapiens, here is a list of recipes which one might be able to apply to one's own life:
+1.1 Reciple for the  "ultimate buddha bowl":
+This dish was designed to minimize the necessity for diversity of plants to grow, but yet to be nutrionally complete and to avoid commonly prevelant causes of death at the point of writing:
+To privent cardio vascular diseases, one might appreciate the advice not use oil or fats during the cooking process.
+Even though roasting or commonly referred as "maillard reaction" has been scientifically proven to be harmful for the human body.
+The usage of teflon coated non stick pans is also not advisable.
+Heating food in plastic containers is known to be harmful as well.
+It might be necessary for some ingredients to apply heat to increase the absorption rate of nutrients, breakdown harmful compounds or to eliminate harmful microbes.
+Therefore the author advices to use foodsafe silicone container commonly known as "Stasher". (Disclaimer: The author is neither sponsored nor associated with that company in any way. The advice is purely subjective opinion of the author.)
+One utility of that container is that it can serve as a dish to eat out from and can be portable given its tight sealing.
+User might be advised not to carelessly transport fluids.
+The original use case of that silicone container was to offer a product which can be repeatedly used during a cooking method called "sous vide".
+But for this recipe, it will be used to cook rice, lentis and optionally quinoa with carrots and shiitake mushrooms with water
+inside a electrically pressure cooker.
+There has been studies stating the utility of shiitake mushrooms to fight cancer.
+There are also some utility in button mushrooms and for the lion's mane mushrooms there has been observation to be neuroregenerative.
+Root vegetables such as carrots might benefit with vitamis to avoid night blindness and the carotinoids might offer a skin tone in the facial area to appear healthy to other humans.
+The usage of rice is based in the human nature of being a starchivore, and the substitution of lentils and quinoa is to reduce the consumed amount of calories and increase the protein content of this meal.
+The shelf life of rice, lentils and quinoa are quite stable reducing the cost for management.
+One might appreciate the advice to invest in a smart electric pressure cooker, so one might be able to seperate cooking from eating, to be 'faster than fastfood'.
+To prevent diabetes one might appreciate the advice not use sugar. One reason is it causes a crash in blood sugar levels and might leading to overeating. Another reason is insulin resistance if consumed exessively for a prolonged period. Another reason is acts as a toxin for mitochondria cells and decreases the metabolic rate which might be one of the reasons for metabolic syndrome. Eventhough the human body has the ability to absorb quite an amount of blood sugar, the excess might deposit on joints causing further damage.
+Another way to prevent diabetes is to calculate ones own value of non-exercise activity thermogenesis (NEAT), to determine the amount of maintencance daily calory intake.
+In that same type of silicone container it is possible to marinate tofu and other prepared vegetables such as egg plants and marinate it. Tofu derived from soy beans has all the essential amino acids in a optimal distribution for humans. Ingestion of animal proteins are not adives baucause it is carcinogenic. Generally it is recommendable to minimize salt intake to avoid high blood pressue and other diseases. But one might still appreciate the idea to use with one part soy sauce and one part vinear to make it tasty. Vinegar has shown some correlation to stabilize blood sugar levels during ingestion of carbohydrates. One might appreciate the idea to optionally add chilli, since there has been found a correlation that chillis might reduce appetite if overeating is one issue.
+The marinade can be used as sauce on the rice mixture as well.
+To avoid cancer one might appreciate the advice to add cruciferous vegetables such as broccoli sprouts as garnish.
+One might apreciate the advice to add mustard to the mix, because it has the ablity to regenerate sulforaphane when it was broken down though heat or oxidation.
+To reduce the risk of depression it might be adisable to add fermented food such as kimchi.
+To make kimchi apply salt to nappa cabbage, and let it dehydrate for few hous and drain the excess water and salt. It might be tasty to add daikon raddish and carrots.
+Then heat rice flour with a kelp and mushroom extract to make a slurry. To increase taste garlic paste and nashi or apple paste might be beneficial. If that mixture has thickend, let it cool off to room temperature and add it to the cabbage and mix well.
+Optinally spring onions, chilli flakes commonly referred as 'gochugaru' and grated ginger might be beneficial.
+Ginger has the property to decease pain and boost immune functions.
+Put the kimchi into a container and submerge it into the excess moisture coming out of the cabbage to enable anaerobic fermentation process of the lactobacteria present on the cabbage for few days and keep in the fridge.
+If there is a white layer, it might be the lactobacteria, but if it is colourful or hairy it might be mold.
+If it is mold it is advised not to consume them because of the mycotoxins.
+Another way to decrease the risk for depression is is through the addition of 20g of ground walnuts for DHA, which are precursor for omega3-fatty acids which is crutial for the maintainance of cognitive ability.
+Those who do not have the time to eat such meals, might find utility in ingesting soy protein isolates, with creatine and phsyllium husk. Creatine seems to aid activity of mitochondria which is not only beneficial for athletic perfomances but can also slow down the rate of decrease of cognitive abilities. Psyllium husk is filling and its water soluable fiber content is beneficial for the microbiota aiding digestion.
 
+1.2 Exposure to toxins
+To avoid organ failure one might appreciate the advice not to neglect research of ingreadients containing toxins and heavy metals.
+Naturally grown mushrooms are proned to absorb heavy metals, which might even be radioactive.
+Naturally grown rice might contain arsenic since it tends to absorb and accumulate it.
+The usage of pesticides, insecticides, fungicides and herbicides might have negative influence for infant humans or during pregnancy.
+Depending on the methods of storage, there might be mold or other sources of diseases which can also be toxic.
+Genetic engineering of crops might not be inherently harmful but most common reason is to increase resistance to pesticides etc.
 
-Nutrition is a highly controversal topic,
-because the concept of "health" is based off of
-the absence of diseases.
-So depending on whatever diseases you may have,
-what is heathy for you differs.
-
-But to give a rough guideline,
-here is a recipe for the "ultimate buddha bowl".
-It is designed to minimize the necessity for
-diversity of plants to grow yet to be nutrionally compleate
-and to prevent currently most common causes of death:
-1) Cardio vascular diseases: Do not use oil.
-Use foodsafe silicone container and cook rice, lentis
-and optionally quinoa with carrots and shitake mushrooms with water
-inside a electrically self regulated pressure cooker.
-2) Diabetes: Do not use sugar. Do not overeat. Calculate your NEAT.
-In that same silicone container, put tofu and marinate it
-with one part soy sauce and one part vinear. Optionally add chilli.
-The marinade can be used as sauce on the rice mixture.
-3) Cancer: Add broccoli sprouts at the end.
-4) Depression: Add kimchi before eating. Add 20g of ground walnuts for DHA.
-5) Organ failure: Be aware that the plants don't contain toxins and heavy metals.
+1.3 Exposture to environmental factors
+Regular exposure to sunlight is recommended for recalibrating 
+1.4 
