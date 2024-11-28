@@ -28,25 +28,24 @@ One might find a reason for why plans are useless in these words:
 Those who seek to change the future might appreciate these words:
 "Realize deeply that the present moment is all you will ever have."
 Those who seek to use one's own present moment to prepare might appreciate the following limited enumeration for a possible cause of one's cause death:
-- Solar Flares:
-	- Make electronics EMP proof
-	- Have spare parts inside a EMP proof casing
-	- Improving means of prediction through observation of cycles
 - Black out / power outage:
 	- Renewable or sustainable power sources
 	- Fortification of existing power grid
 	- Efforts to sustain offgrid life style
+	- Solar Flares:
+		- Make electronics EMP proof
+		- Have spare parts inside a EMP proof casing
+		- Improving means of prediction through observation of cycles
 - Climate change and weather extremes:
 	- Less reckless consumer behaviour
 	- More investment in sustainable innovations
 	- More research in safe places to live
 	- Fully autarkic hydroponic agricultural systems
 	- Working on an artsylum
-- War:
+- War and cyberwarfare:
 	- Education of wisdom enabling those who seek war to agree on the necessity of world peace.
 	- Better means for resource distribution
 	- Better process or improvement of operation of governments
-- Technoglogy:
 	- Education about cyber security, artificial intelligence and technology.
 	- Creation of automated defense mechanism
 - Declining birthrate:
