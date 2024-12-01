@@ -29,14 +29,14 @@ Here is a recommended reading order by the auther to minimize confusion,
 but some may feel free enough to explore it on their own order:
 
 Version 2:
-1. needs
-2. intuition
+1. survival
+2. needs
 3. peace
 4. good
-5. benevolence
+5. promise
 6. joy
 7. privilege
-8. obsession
+8. procreation
 9. health
 10. harmony
 11. malevolence
@@ -52,9 +52,9 @@ Version 2:
 21. hesitation
 22. integrity
 23. obituary
-24. disobedience
+24. hero
 25. contentment
-26. hope
+26. soul
 27. meaning
 28. effort
 29. transcendence
