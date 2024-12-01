@@ -45,7 +45,7 @@ Version 2:
 14. humor
 15. civilization
 16. home
-17. artsylum
+17. asylum
 18. loyalty
 19. protection
 20. originality
