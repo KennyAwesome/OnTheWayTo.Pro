@@ -56,7 +56,7 @@ Version 2:
 25. contentment
 26. soul
 27. meaning
-28. effort
+28. mission
 29. transcendence
 30. prompt
 31. enlightenment
