@@ -1,7 +1,7 @@
 Disclaimer: Trigger warning regarding the topics such as mental health, science, metaphysics and politics.
 For all the other legal disclaimers please refer to the chapter "disclaimer".
 
-The book with the title "42 - Collection of 42 philosophical essays trying to define hope for survial artists." is part of a larger art project called "OnTheWayTo.Pro".
+The book with the title "42 - An open source framework for continous integration of modern knowledge into ancient wisdom to inspire survival artists in the age of artifical intelligence." is part of a larger art project called "OnTheWayTo.Pro".
 The book is an selected collection of 42 philosophical essays aiming to offer advices and encouragements to stay alive and to strive for a state of being which might be able to referred as "thriving".
 The author wants to emphasize the fact that these advices are not meant as medical advices and those who are in need of medical advices are advised to consult local health care professionals.
 The title of this book is inspired by the following passage from another book called "The Hitchhiker's Guide to the Galaxy":
