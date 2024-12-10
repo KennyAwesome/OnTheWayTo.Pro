@@ -71,7 +71,52 @@ Failsafe mechanisms:
 - The Voice of Humanity foundation will fund trustable operators including the supreme administrator.
 
 ________
+
 Current tech stack:
+1. Client-Application:
+	- Internet connection with a gateway node providing access to read and request to publish a message.
+	- The gateway node instance can be either selected by the user from the official list hosted on the voice of humanity foundation website or self hosted.
+	- Self Compilable
+	- Request a UUID and public encrpytion key automatically.
+	- Sends an encrpyted message with the public key of the authentication node for privacy.
+	- If the publish request was denied by the authorization node, the user gets an two strings. One string contains plain text explaining the reason in human understandable way. The other string containing an encrpyted message containing the original message, UUID of the client application, the UUID of the gateway node, the UUID of the authentication node and the reason why the publish request was denied.
+	- The user has the freedom to send the encrpyted string to the Voice of Humanity foundation for review by human after the verification with altcha. Only messages which can be decrypted by the authorization node will be actually sent for human review.
+	- If then a malicious intent was detected during the human review, that client with the UUID can be black listed.
+	- A client can request permission to vote, after the identitiy of the client has been verified using the API for online identification of local governments.
+
+2. Gateway Node:
+	- Self Compilable, UUID of the gateway node is registered in authorization node
+	- Hosts a REST API to access to the decentralized data and request to publish messages.
+	- Relays encrpyted publish message request to the authorization node. 
+	- Can be requested for black listing, if many malicious clients activity has been detected.
+
+3. Authorization node.
+	- Can authenticate and blacklist a Gateway node.
+	- Is a encrypted Docker image, and only that image has access to the decentralized key management system.
+	- Regularly automatically recompiles itself from the most recent commit to radicle repo.
+	- All activity requires authorization by the decentral secret management system.
+	- Has an local RAG pipeline with a knowledge base and guard rail system to verify that a new message is not a spam.
+	- If the message is verified, updates the data of the forum/knowledge base.
+	- Provides API to accept pull requests for the source code on redicle repo will be authorized by the maintenance team.
+	- A request to black list a authorization node can be sent to the decentral secret management system by the maintainer of an authorization node.
+	- After the request for black listing has been issued, all activities by that node is suspended until the request has been processed.
+	- After sending one request to black list, that original authentication node is also suspended to prevent one node accusing all others.
+
+4. Decentral secret management system:
+	- Is a dApp fist instantiated and funded by the voice of humanity foundation and acts as a single instance.
+	- It's purpose is to keeps regenerating the credendencials in certain intervals to avoid being brute forced.
+	- The credencials are encrpyted in a file on a virtual disk on a RAM and is not stored anywhere else to avoid being brute forced.
+	- List of credentials to be stored:
+		- All public keys, UUIDs of the client applicaiton, and whether it is blocked, and whether it has permissions to vote.
+		- All public keys and UUIDs of the gateway node, and whether it is blocked
+		- All public keys and UUIDs of the authorization node, and whether it is blocked
+		- The private key private key used to encrypt the file with the credencials is also on the temporal ram on a RAM of the decentral private computing cluster and is also regulary regenerated.
+		- The root password, after the first instantiation, the system locks out the access to the root system by changing the root password to a random password. And the system keeps changing the root password as well to avoid evil maid attack.
+	- Manages votes regarding black listing of authentication nodes.
+
+5. Publically accessible decentral storage for the forum data for discussion, it's operation is funded by the voice of humanity foundation. The current laws of each country are mirrored and anyone can publish a comment or specific change for that law but only authenticated with the digital identity issued by that local government of that country can participate in the vote to accept that change.
+________
+Old tech stack:
 1. Client-Device:
 	- Internet connection with a centralized REST server providing access to read only access to channels.
 	- The instance of the centralizes REST server can be chosen by the user from the official list hosted on the Voice of Humanity foundation.
@@ -89,24 +134,24 @@ Current tech stack:
 2.7 P2P authorized node for quiz generator, submitting quiz to human verifiers 
 2.8 P2P authorized node for authorization (of users, operators, domains to centralized server as information source)
 2.9 P2P authorized node for managing "main" cryptowallet managing all the Filecoin/Verizexe-coin, which address is hard coded and the private key is typed in manually by the highest administrator.
-
 ________
-
-
 MISC:
-- Knowledge Base:
+- Example for online identification API provided by government for voting called "eID" in germany: https://www.personalausweisportal.de/Webs/PA/DE/wirtschaft/diensteanbieter-werden/einsatzmoeglichkeiten/einsatzmoeglichkeiten-node.html
+- Knowledge Base: Knowledge will be mainted as unstructured text from which a Neo4j with GPU acceleration will be generated for a RAG pipeline.
 - decentralized webhosting:
 	- Decentral Open source code base: https://radicle.xyz/
-	- A Aleph.im node can either access or host confidential, private and encrypted virtual machine. The node can be run in a VM on a cloud or locally.  https://github.com/aleph-im/pyaleph
-	- Decentral private computing: https://github.com/EspressoSystems/veri-zexe
-	
+	- Decentral private computing:
+		- Protocol + Computing power: https://github.com/aleph-im/aleph-vm/tree/main/runtimes/aleph-debian-12-python
+		- Protocol: https://github.com/EspressoSystems/veri-zexe
+	- Decentral Storage for encrypted Docker images: https://ipfs.tech/
+	- Etherum Smart Contract for most important information, needs to be funded
+
+
 Outdated reserach notes:
-	- Decentral Storage: https://www.ethswarm.org/
 	- Decentral webhosting: https://ipfs.tech/
-	- Decentral Database:  "proof of spacetime"
+	- Decentral Database:  "proof of spacetime" -> With dedication, it cann be overrun
 		- https://spec.filecoin.io/
 		- https://docs.filecoin.io/builder-cookbook/dapps/decentralized-database
-	- Etherum Smart Contract for most important information, needs to be funded
 	- Decentral forum: https://join-lemmy.org/docs/introduction.html
 
 ____________
@@ -156,7 +201,8 @@ which address will be documented in the etherum smart contract. -> Filecoin will
 		- 6. If a operator has authorized malicious users over a certain threshold regardless of the intention, the node of that operator will be suspended and that operator will be black listed by the system.
 		- 7. All users authorized by the corrupt operator, will be temporalily be excluded from ballots until reverification.
 		- 8. If that reverification does not happen in time, that user will be permanently blacklisted.
-
+- Trolling: Daily Rate Limit for publish requests
+- Malicious Client attack: Anyone can create a lot of client instances and sends publish requests, which are then denied and then requests to be reviewed by human and thus overflow the capacity of human verification. Solution: Proof of Work with Altcha: https://github.com/altcha-org/altcha
 _____________
 Notes on implementation of the bots:
 1. Code review bot
