@@ -1,42 +1,42 @@
-1. survival
-2. needs
-3. peace
-4. good
-5. hope
-6. joy
-7. privilege
-8. procreation
-9. health
-10. harmony
-11. malevolence
-12. friendship
-13. honor
-14. humor
-15. civilization
-16. home
-17. asylum
-18. loyalty
-19. responsibility
-20. originality
-21. hesitation
-22. integrity
-23. obituary
-24. hero
-25. contentment
-26. soul
-27. meaning
-28. mission
-29. transcendence
-30. preperation
-31. enlightenment
-32. consciousness
-33. realization
-34. maturity
-35. ideology
-36. normal
-37. mantra
-38. promise
-39. humanity
-40. D5
-41. protection
-42. ultimate
+survival
+needs
+peace
+good
+hope
+joy
+privilege
+procreation
+health
+harmony
+malevolence
+friendship
+honor
+humor
+civilization
+home
+asylum
+loyalty
+responsibility
+originality
+hesitation
+integrity
+obituary
+hero
+contentment
+soul
+meaning
+mission
+transcendence
+preperation
+enlightenment
+consciousness
+realization
+maturity
+ideology
+normal
+mantra
+promise
+humanity
+D5
+protection
+ultimate
