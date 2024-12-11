@@ -25,51 +25,9 @@ Details can be found in the chapter "requirements".
 The only part of this project which will not be open source is the data which the custom wake word will be trained on to protect the privacy of the volunteers who donated their voice. This may disqualify for an "open source" project, therefore the designs and resources of that client application will be on a seperate repository.
 Those who seek to help donate their voice might find details about the event in the chapter "events".
 
-Here is a recommended reading order by the auther to minimize confusion,
-but some may feel free enough to explore it on their own order:
+To minimize confusion one might appreciate the index.txt for the recommended reading order by the author,
+but one might appreciate the freedom to explore it on their own accord.
 
-Version 2:
-1. survival
-2. needs
-3. peace
-4. good
-5. promise
-6. joy
-7. privilege
-8. procreation
-9. health
-10. harmony
-11. malevolence
-12. friendship
-13. honor
-14. humor
-15. civilization
-16. home
-17. asylum
-18. loyalty
-19. protection
-20. originality
-21. hesitation
-22. integrity
-23. obituary
-24. hero
-25. contentment
-26. soul
-27. meaning
-28. mission
-29. transcendence
-30. prompt
-31. enlightenment
-32. consciousness
-33. realization
-34. maturity
-35. ideology
-36. normal
-37. mantra
-38. ultimate
-39. humanity 
-40. D5
-41. foundation
-42. hope
+
 
 
