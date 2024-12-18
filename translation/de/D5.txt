@@ -1,0 +1,228 @@
+Haftungsausschluss: Dieses Dokument ist lediglich eine Sammlung von Ideen zum möglichen Ansatz für die technische Umsetzung eines demokratischen Systems und ist nicht als Aufruf zum Sturz einer real existierenden Regierung gedacht.
+Falls es in diesem Dokument Punkte gibt, die im Widerspruch zu dieser Absicht stehen könnten, wird Feedback zur Verbesserung geschätzt und dieses Dokument wird schnellstmöglich aktualisiert.
+
+"D5" steht für Digitale Dezentrale Diverse Direkte Demokratie:
+
+Viele aktuelle Regierungsfunktionen erfordern noch analoge Bürokratie, was die Verarbeitungsgeschwindigkeit verlangsamt und wertvolle Ressourcen verschwendet.
+Eine logische Schlussfolgerung ist die Bereitstellung eines Webservices, der digital entweder über Browser oder über eine Smartphone-Anwendung zugänglich ist.
+
+Um das Risiko der Korruption durch Datenmanipulation und Monopolisierung zu minimieren, werden die Daten auf verifizierbaren dezentralen Webservices gespeichert.
+
+Diversität ist schwer zu messen und damit schwer zu repräsentieren, besonders für diejenigen, die weniger privilegiert sind.
+Indem man Menschen, die eine Stimme haben können, Zugang zum System gibt, sollten sie in der Lage sein, produktiv beizutragen.
+
+Direkte Demokratie ist im Allgemeinen schwer umzusetzen, da sie enorme personelle Ressourcen erfordern würde, um alle Informationen von allen Bürgern zu verarbeiten. Wenn die Moderation durch Bots und andere Bürger und nicht nur durch Regierungsbürokraten erfolgt, könnte genügend Verarbeitungskapazität vorhanden sein, um alle Bürger direkt an den endgültigen Entscheidungen mitwirken zu lassen und damit die Möglichkeit des Machtmissbrauchs durch Repräsentanten zu reduzieren. Um mit der aktuellen repräsentativen Demokratie kompatibel zu sein, wird die Verkündung der durch das D5-System getroffenen Entscheidungen durch Freiwillige erfolgen, die sagen, dass wenn D5 als absolute Mehrheit gewählt wurde, die Änderungen wie angekündigt umgesetzt werden.
+
+Demokratie durch Menschen ist notwendig, um fatale Fehler durch vollständige Automatisierung zu vermeiden.
+
+__________
+Das D5 benötigt Folgendes für den Betrieb:
+1. Benutzer/Bürger mit Zugang zum System.
+1.1 Kreative und sachkundige Bürger, die eine Lösung für ein Problem entwickeln und recherchieren, ob diese Lösung tatsächlich durchführbar ist und sie mit anderen Bürgern in einem Thread diskutieren.
+1.2 Schnelle und entscheidungsfreudige Bürger: Ihre Rolle ist es, die vorgeschlagenen Lösungen zu verstehen, sie zu vergleichen und so schnell wie möglich zu entscheiden, welche die größten Chancen oder den geringsten Schaden hat.
+
+2. Betriebspersonal:
+2.1. Administratoren, die das System warten. Das Kernsystem wird Open Source sein, sodass jeder das System überprüfen und verbessern kann. Es müssen genügend Administratoren vorhanden sein, die bezahlt werden können, auch wenn Freiwilligenarbeit erwünscht ist, damit Fehler so schnell wie möglich behoben werden können und der Webservice ständig online bleibt. Erst die Praxis wird zeigen, wie viele Personen erforderlich sind, aber mindestens 6 mit einer 8-Stunden-Schicht zur Gewährleistung der 24/7-Abdeckung und eine Person kann krank sein.
+2.2. Operatoren zur Verifizierung von Benutzern und anderen Operatoren.
+2.3. Moderatoren: Moderation der Diskussionskanäle
+2.4. Verifizierer: Überprüfung neuer Wissenseinträge
+2.5. Koordinatoren: Die Schichten und andere organisatorische Aufgaben koordinieren
+
+3. Technische Infrastruktur
+3.1. Quellcode
+3.2. Server (wird später erklärt)
+3.3. Client-Geräte (idealerweise ein von onthewayto.pro entwickelter Sprachrekorder, aber jedes Gerät mit Internetzugang und ausreichender Rechenleistung würde genügen)
+3.4. Physischer Standort (zum Senden/Empfangen von Briefen, technischer Support, Wohnsitz/Büro für Personal, etc.)
+
+4. Voice Of Humanity Foundation, die die Administratoren, Operatoren, Moderatoren, Koordinatoren und die notwendige technische Infrastruktur finanziert.
+
+5. Lokale politische Partei mit Vertretern, die autorisierten Zugang zum D5-System haben. Wenn eine Entscheidung getroffen wurde, um sie so schnell wie möglich im lokalen Legislativorgan bekannt zu geben.
+________
+
+Workflow für eine Entscheidung:
+1) Ein Bürger startet einen Thread zu einem Thema und beschreibt ein spezifisches Problem.
+2) Andere Bürger, die ein Thema abonniert haben, werden über diesen Thread benachrichtigt.
+3) Andere Bürger treten dem Thread bei, indem sie eine grundlegende Frage zu diesem Thema beantworten, die entweder von anderen Bürgern oder von einem Bot generiert wird.
+4) Im Thread werden eine oder mehrere Lösungen ausgearbeitet.
+5) Irgendwann wird ein Beitrag von der Mehrheit des Threads als Lösung markiert.
+6) Wenn dies der Fall ist, werden alle für Entscheidungen zuständigen Bürger, die ein Thema abonniert haben, benachrichtigt.
+7) Sie können abstimmen, bis mindestens 80% von ihnen abgestimmt haben und die Lösung 51% der Stimmen erreichen muss. Bis dahin können diese Personen abstimmen.
+8) Das Ergebnis der Abstimmung wird in einem Protokoll veröffentlicht.
+9) Der Vertreter gibt in der Regierungssitzung neue Einträge im Protokoll bekannt.
+10) Sobald die D5-Partei als absolute Mehrheit gewählt ist, ändert der Vertreter das Gesetz entsprechend.
+
+________
+
+Workflow zur Identifizierung eines spezifischen Problems:
+1) Ein Bürger stellt eine Frage an die Wissensbasis des Systems.
+2) Das System versucht, eine Antwort mit Hilfe von Bots zu geben, indem es in anderen Threads sucht.
+3) Wenn der Bot keine brauchbare Antwort findet oder wenn der Bürger mit einer Antwort nicht zufrieden ist,
+kann ein Thread mit einem Thema gestartet werden.
+________
+
+Ausfallsicherungsmechanismen:
+- Menschlicher Vertreter.
+- Dieser menschliche Vertreter kann einen vordefinierten Freiwilligen eines Kanals als Experten anfordern, der im Kongress anwesend ist.
+- Dezentralisierung des Systems.
+- System könnte mit Ad-hoc-Mesh-Netzwerk offline zugänglich sein (meshtastic)
+- Menschliche Moderatoren überwachen KI-Moderatoren
+- Korrupter Vertreter kann von den autorisierten Wahlberechtigten schnell abgewählt werden.
+- Betreiber der Voice of Humanity Foundation stellt vertrauenswürdige Operatoren bereit.
+- Die Voice of Humanity Foundation wird vertrauenswürdige Operatoren einschließlich des obersten Administrators finanzieren.
+
+________
+
+Aktueller Tech-Stack:
+1. Client-Anwendung:
+	- Internetverbindung mit einem Gateway-Knoten, der Zugriff zum Lesen und Anfragen zur Veröffentlichung einer Nachricht bietet.
+	- Die Gateway-Knoten-Instanz kann entweder vom Benutzer aus der offiziellen Liste auf der Website der Voice of Humanity Foundation ausgewählt oder selbst gehostet werden.
+	- Selbst kompilierbar
+	- Fordert automatisch eine UUID und einen öffentlichen Verschlüsselungsschlüssel an.
+	- Sendet eine verschlüsselte Nachricht mit dem öffentlichen Schlüssel des Authentifizierungsknotens für die Privatsphäre.
+	- Wenn die Veröffentlichungsanfrage vom Autorisierungsknoten abgelehnt wurde, erhält der Benutzer zwei Zeichenketten. Eine Zeichenkette enthält Klartext, der den Grund in menschenverständlicher Weise erklärt. Die andere Zeichenkette enthält eine verschlüsselte Nachricht mit der ursprünglichen Nachricht, UUID der Client-Anwendung, der UUID des Gateway-Knotens, der UUID des Authentifizierungsknotens und dem Grund, warum die Veröffentlichungsanfrage abgelehnt wurde.
+	- Der Benutzer hat die Freiheit, die verschlüsselte Zeichenkette nach der Verifizierung mit Altcha zur Überprüfung durch Menschen an die Voice of Humanity Foundation zu senden. Nur Nachrichten, die vom Autorisierungsknoten entschlüsselt werden können, werden tatsächlich zur menschlichen Überprüfung gesendet.
+	- Wenn dann während der menschlichen Überprüfung eine böswillige Absicht festgestellt wurde, kann dieser Client mit der UUID auf die schwarze Liste gesetzt werden.
+	- Ein Client kann nach Überprüfung der Identität des Clients über die API für Online-Identifikation lokaler Regierungen eine Abstimmungsberechtigung beantragen.
+
+2. Gateway-Knoten:
+	- Selbst kompilierbar, UUID des Gateway-Knotens ist im Autorisierungsknoten registriert
+	- Hostet eine REST-API für den Zugriff auf die dezentralen Daten und Anfragen zur Veröffentlichung von Nachrichten.
+	- Leitet verschlüsselte Veröffentlichungsnachrichtenanfragen an den Autorisierungsknoten weiter.
+	- Kann zur Aufnahme auf die schwarze Liste angefordert werden, wenn viele böswillige Client-Aktivitäten festgestellt wurden.
+
+3. Autorisierungsknoten:
+	- Kann einen Gateway-Knoten authentifizieren und auf die schwarze Liste setzen.
+	- Ist ein verschlüsseltes Docker-Image und nur dieses Image hat Zugriff auf das dezentrale Schlüsselverwaltungssystem.
+	- Kompiliert sich regelmäßig automatisch aus dem neuesten Commit zum Radicle-Repository neu.
+	- Alle Aktivitäten erfordern die Autorisierung durch das dezentrale Geheimverwaltungssystem.
+	- Hat eine lokale RAG-Pipeline mit einer Wissensbasis und einem Guard-Rail-System, um zu überprüfen, dass eine neue Nachricht kein Spam ist.
+	- Wenn die Nachricht verifiziert ist, aktualisiert sie die Daten des Forums/der Wissensbasis.
+	- Stellt API bereit, um Pull-Requests für den Quellcode im Radicle-Repository zu akzeptieren, die vom Wartungsteam autorisiert werden.
+	- Eine Anfrage zur Aufnahme eines Autorisierungsknotens auf die schwarze Liste kann vom Betreiber eines Autorisierungsknotens an das dezentrale Geheimverwaltungssystem gesendet werden.
+	- Nachdem die Anfrage zur Aufnahme auf die schwarze Liste gestellt wurde, werden alle Aktivitäten dieses Knotens ausgesetzt, bis die Anfrage bearbeitet wurde.
+	- Nach dem Senden einer Anfrage zur Aufnahme auf die schwarze Liste wird auch dieser ursprüngliche Authentifizierungsknoten ausgesetzt, um zu verhindern, dass ein Knoten alle anderen beschuldigt.
+
+4. Dezentrales Geheimverwaltungssystem:
+	- Ist eine dApp, die zuerst von der Voice of Humanity Foundation instanziiert und finanziert wird und als einzelne Instanz agiert.
+	- Ihr Zweck ist es, die Zugangsdaten in bestimmten Intervallen neu zu generieren, um Brute-Force-Angriffe zu vermeiden.
+	- Die Zugangsdaten sind in einer Datei auf einer virtuellen Festplatte im RAM verschlüsselt und werden nirgendwo sonst gespeichert, um Brute-Force-Angriffe zu vermeiden.
+	- Liste der zu speichernden Zugangsdaten:
+		- Alle öffentlichen Schlüssel, UUIDs der Client-Anwendung und ob sie gesperrt ist und ob sie Abstimmungsberechtigungen hat.
+		- Alle öffentlichen Schlüssel und UUIDs des Gateway-Knotens und ob er gesperrt ist
+		- Alle öffentlichen Schlüssel und UUIDs des Autorisierungsknotens und ob er gesperrt ist
+		- Der private Schlüssel, der zum Verschlüsseln der Datei mit den Zugangsdaten verwendet wird, befindet sich auch im temporären RAM des dezentralen privaten Rechenclusters und wird ebenfalls regelmäßig neu generiert.
+		- Das Root-Passwort, nach der ersten Instanziierung sperrt das System den Zugriff auf das Root-System, indem es das Root-Passwort in ein zufälliges Passwort ändert. Und das System ändert das Root-Passwort ebenfalls weiterhin, um Evil-Maid-Angriffe zu vermeiden.
+	- Verwaltet Abstimmungen bezüglich der Aufnahme von Authentifizierungsknoten auf die schwarze Liste.
+
+5. Öffentlich zugänglicher dezentraler Speicher für die Forumsdaten zur Diskussion, dessen Betrieb von der Voice of Humanity Foundation finanziert wird. Die aktuellen Gesetze jedes Landes werden gespiegelt und jeder kann einen Kommentar oder eine spezifische Änderung für dieses Gesetz veröffentlichen, aber nur authentifiziert mit der digitalen Identität, die von dieser lokalen Regierung des Landes ausgestellt wurde, kann an der Abstimmung zur Annahme dieser Änderung teilnehmen.
+________
+
+Alter Tech-Stack:
+1. Client-Gerät:
+    - Internetverbindung mit einem zentralisierten REST-Server, der Nur-Lese-Zugriff auf Kanäle bietet.
+    - Die Instanz des zentralisierten REST-Servers kann vom Benutzer aus der offiziellen Liste der Voice of Humanity Foundation ausgewählt werden.
+    - Optionale Funktionen, da sie ausreichend Rechenleistung zur Überprüfung der Datenintegrität erfordern. Bei Hosting kann es als Gateway mit Schreibzugriff fungieren, was normalerweise die Möglichkeiten gewöhnlicher Smartphones übersteigt:
+        - Hosting eines minimalen unauthorisierten Knotens für dezentrales Kommunikationsprotokoll mit Schreibzugriff auf Kanäle
+        - Hosting eines minimalen autorisierten Knotens für dezentrales Kommunikationsprotokoll mit Schreibzugriff auf Abstimmungen
+
+2. Server:
+2.1 P2P autorisierter Knoten als Bootstrap-Knoten, geforkte benutzerdefinierte Instanz von Radicle und geforkte benutzerdefinierte Instanz von Verizexe (Mehrere unabhängige Instanzen erwünscht)
+2.2 P2P autorisierter Knoten mit Radicle-ähnlichem dezentralem Repo-Hosting für Quellcode sowie öffentliche Daten (Diskussionskanäle, Abstimmungsergebnisse, Wissensbasis) und private Daten (Schwarze Liste, einzelne Abstimmungsstimmen) mit Schreibzugriff
+2.3 P2P unautorisierter Knoten mit Radicle-ähnlichem dezentralem Repo-Hosting für Quellcode sowie öffentliche Daten (Diskussionskanäle, Abstimmungsergebnisse) und private Daten (Schwarze Liste, einzelne Abstimmungsstimmen) mit nur Lesezugriff
+2.4 P2P autorisierter Knoten mit Nur-Lese-Zugriff auf öffentliche Daten, der mit einem zentralisierten REST-Server für schnellen Informationszugriff kommuniziert
+2.5 P2P autorisierter Knoten mit Code-Review-Bot, der Änderungsanfragen überprüft und eine Abstimmung des Code-Wartungsteams einleitet
+2.6 P2P autorisierter Knoten mit Moderator-Bots, die für das Setzen von Knoten auf die schwarze Liste für jeden Kanal verantwortlich sind, wenn eine böswillige Absicht erkannt wurde; vor dem Blacklisting muss ein menschlicher Moderator die böswillige Aktion überprüfen
+2.7 P2P autorisierter Knoten für Quiz-Generator, der Quiz an menschliche Prüfer übermittelt
+2.8 P2P autorisierter Knoten für Autorisierung (von Benutzern, Betreibern, Domains zu zentralisiertem Server als Informationsquelle)
+2.9 P2P autorisierter Knoten für die Verwaltung der "Haupt"-Kryptowallet, die alle Filecoin/Verizexe-Coins verwaltet, deren Adresse fest codiert ist und deren privater Schlüssel manuell vom höchsten Administrator eingegeben wird
+
+________
+VERSCHIEDENES:
+- Beispiel für Online-Identifikations-API der Regierung für Abstimmungen, genannt "eID" in Deutschland: https://www.personalausweisportal.de/Webs/PA/DE/wirtschaft/diensteanbieter-werden/einsatzmoeglichkeiten/einsatzmoeglichkeiten-node.html
+- Wissensbasis: Wissen wird als unstrukturierter Text gepflegt, aus dem eine Neo4j mit GPU-Beschleunigung für eine RAG-Pipeline generiert wird.
+- Dezentrales Webhosting:
+    - Dezentrale Open-Source-Codebasis: https://radicle.xyz/
+    - Dezentrales privates Computing:
+        - Protokoll + Rechenleistung: https://github.com/aleph-im/aleph-vm/tree/main/runtimes/aleph-debian-12-python
+        - Protokoll: https://github.com/EspressoSystems/veri-zexe
+    - Dezentraler Speicher für verschlüsselte Docker-Images: https://ipfs.tech/
+    - Ethereum Smart Contract für wichtigste Informationen, muss finanziert werden
+
+Veraltete Forschungsnotizen:
+    - Dezentrales Webhosting: https://ipfs.tech/
+    - Dezentrale Datenbank: "proof of spacetime" -> Mit Hingabe kann es überlastet werden
+        - https://spec.filecoin.io/
+        - https://docs.filecoin.io/builder-cookbook/dapps/decentralized-database
+    - Dezentrales Forum: https://join-lemmy.org/docs/introduction.html
+
+____________
+Bekannte, noch ungelöste Probleme:
+- Verifizierungsprozess der Wissensbasis/Quiz
+    - Problem der Geschichtsschreibung durch korrupte Historiker
+    - Nur ein menschlicher Experte kann verifizieren, aber das bedeutet einen Engpass
+    - Öffentliche Diskussion bedeutet Informationsleck
+    - Private Diskussion widerspricht der Transparenz
+- Betrug bei Wissenstests:
+    - Wenn der Benutzer bei Tests betrügt (oder bösartiger Bot), könnte er ausreichend Wissen haben, um im Thread zu bleiben und falsche Informationen zu verbreiten. Dies mit "vertrauenswürdigen" Personen durchzuführen, hat Einschränkungen bezüglich Expertise, Zeit und Ressourcen. Für die meisten Menschen wäre ein Test in einer Kabine ohne Elektronik ideal, aber dies erfordert autorisierte und korrekte Durchführung durch diese Institution, was schwer sicherzustellen ist.
+- Integration von Quantenkryptographie erfordert spezielle Hardware, die für Verbraucher möglicherweise nicht schnell genug verfügbar sein wird. Selbst wenn verfügbar, könnte sie zu teuer in Anschaffung oder Wartung sein.
+
+__________
+Gelöste Probleme:
+- Was tun, wenn das System aus irgendeinem Grund nicht zugänglich ist? (Staatsstreich-Problem) -> Dezentralisierung (Offline-First-Prinzip)
+- Organisierte radikale Gruppe mit bösen Absichten schafft eine falsche Mehrheit (Radikalen-Problem) -> Schwarze Liste
+- Schwarze-Liste-Problem: Ethisch, Praktisch -> Wenn jemand den Test nicht besteht, gibt es eine Abstimmung aus diesem Kanal, ob die Instanz tatsächlich auf die schwarze Liste gesetzt werden soll, wobei die Benutzer die Antwort auf die Frage sehen können.
+- Priorisierung von Knoten-Problem: Wenn Filecoin verwendet wird, müssen die Knoten die Filecoin zurück an das Konto des "Haupt"-Knotens oder sogenannten "Bootstrap"-Knotens spenden, dessen Adresse im Ethereum Smart Contract dokumentiert wird. -> Filecoin wird nicht verwendet, sondern Verizexe
+- Fake-Accounts-Problem (Verifizierung von Knoten kann durch Hauptknoten der lokalen Regierung erfolgen)
+- Kein Load Balancing nötig, wenn die P2P-Instanzen wirklich P2P sind (Verizexe verwendet Off-Chain-Berechnung)
+- Derzeit gibt es dezentral verwaltete Domains (z.B. .onion), aber es besteht Bedarf an einem einzelnen Zugangspunkt. ("dezentrale Domains" für Wallets sind es nicht) -> P2P-Knoten können API anbieten, um mit föderierten Frontend-Servern für einfachen Zugriff zu interagieren
+- Verifizierung der Code-Integrität von Knoten:
+    1. Durch homomorphe Kryptographie und Zero-Knowledge-Protokolle ermöglichen dezentrale private Berechnung, der Quellcode wird dezentral gehostet, Repo-Adresse wird in den Quellcode hartcodiert, der Code für CI/CD wird auch dort gehostet, die Kompilierung ist auch Zero-Knowledge-Verschlüsselung und die Ausführungsumgebung kann auch Zero-Knowledge sein, auch wenn es teuer zu berechnen sein mag. Es wird wahrscheinlich auf nexus-zkvm basieren.
+    Einbindung von Radicle-Repos in zkvm unkorrupierbares Repo
+    2. Das Verfahren für RFC (Request for Change) ist unveränderbar
+    3. Jeder, der es schafft, mindestens ein Jahr im Code-Wartungsteam zu bleiben, kann einen Pull Request zur Code-Überprüfung durch einen Bot einreichen
+    4. Die Code-Überprüfung prüft, dass die Änderungen nicht gegen die Verfahren für RFC oder Änderungen daran verstoßen
+    5. Wenn der Code-Review-Bot es geprüft hat, gibt es eine Abstimmung durch das Code-Wartungsteam, um diesen RFC in die Codebasis aufzunehmen und CI/CD-Workflow auszulösen
+    6. Hosting von Bot-Instanzen ist optional (Code-Review, Moderator, Quiz-Generator, Erklärer)
+- Bot-Krieg-Problem (Moderator-Bot funktioniert nicht wie erwartet und wird bösartig) -> Anderer Bot ist für Code-Review zuständig
+- Repräsentanten-Problem: Es könnte die Möglichkeit bestehen, dass der Repräsentant Premierminister oder ähnliche Rollen wird, für die es erforderlich ist, eigene Entscheidungen basierend auf klassifizierten Informationen zu treffen. Daher muss dieser Repräsentant solche Rollen ablehnen. Andernfalls wird dieser Repräsentant Gegenstand einer Nachwahl. Wenn dieser Repräsentant wiedergewählt wird, bedeutet dies, dass das System und seine Benutzer ihre Grenzen erreicht haben, solche Ereignisse zu verhindern. Man kann nur hoffen, dass die Entscheidungen des Repräsentanten als wohlwollend bezeichnet werden können.
+- Wie werden lokale Umfragen gehandhabt? -> Dies geschieht außerhalb des Systems und ist daher für das System irrelevant. Die innerhalb dieses Systems durchgeführten Umfragen dienen nur dazu, Vorschläge an den Gemeinderat zu machen und Repräsentanten für diesen Gemeinderat neu zu wählen, wenn es genügend Unterstützer gibt, um eine lokale politische Partei zu gründen.
+- Autorisierung von Knoten und Benutzern:
+    - Da jeder frei beitreten kann, besteht das Problem der Überflutung mit Knoten, die von Bots/Menschen mit böswilliger Absicht betrieben werden.
+    - Ein Lösungsansatz ist die Autorisierung für Instanziierung
+    - Jede Abstimmungsinstanz muss autorisiert sein
+        - 1. Jeder Operator des Identitätsverifizierungsdienstes benötigt Zugang zum System zum Zweck der Autorisierung.
+        - 2. Jeder Operator wird von vertrauenswürdigen Operatoren der Voice of Humanity Foundation verifiziert und die Gültigkeit muss mindestens jährlich aktualisiert werden.
+        - 3. Ein Bürger eines bestimmten Landes ab dem lokalen Wahlalter kann eine Verifizierung durch das System beantragen.
+            - Es wird ein einfaches Quiz über das System geben, um zu überprüfen, ob sie verstehen, wofür sie sich bewerben.
+            - Dann Eingabe aller notwendigen Informationen (Name, E-Mail)
+            - Das System speichert dies permanent zusammen mit einer eindeutigen Knoten-ID, aber die Liste ist privat und es ist nur möglich zu fragen, ob ein Benutzer bereits auf der schwarzen Liste steht oder nicht.
+        - 4. Sie erhalten eine E-Mail mit einem Link und einem Einmalschlüssel an die angegebene Adresse, die einen Identitätsverifizierungsprozess mit autorisierten Drittanbietern startet.
+        - 5. Der Benutzer ist autorisiert, wenn der Operator dies in das System eingibt.
+        - 6. Wenn ein Operator böswillige Benutzer über einen bestimmten Schwellenwert hinaus autorisiert hat, unabhängig von der Absicht, wird der Knoten dieses Operators suspendiert und dieser Operator wird vom System auf die schwarze Liste gesetzt.
+        - 7. Alle von dem korrupten Operator autorisierten Benutzer werden temporär von Abstimmungen ausgeschlossen, bis eine erneute Verifizierung erfolgt.
+        - 8. Wenn diese erneute Verifizierung nicht rechtzeitig erfolgt, wird dieser Benutzer permanent auf die schwarze Liste gesetzt.
+- Trolling: Tägliches Ratenlimit für Veröffentlichungsanfragen
+- Bösartiger Client-Angriff: Jeder kann viele Client-Instanzen erstellen und Veröffentlichungsanfragen senden, die dann abgelehnt werden und dann zur Überprüfung durch Menschen angefordert werden und so die Kapazität der menschlichen Verifizierung überlasten. Lösung: Proof of Work mit Altcha: https://github.com/altcha-org/altcha
+
+_____________
+Hinweise zur Implementierung der Bots:
+1. Code-Review-Bot
+
+
+2. Moderator-Bot:
+2.1 Prinzipien des Moderator-Bots:
+  - Wenn der Moderator-Bot einen Kommentar entfernt, muss dieser entfernte Kommentar:
+    - öffentlich verfügbar sein
+    - der Autor kann beantragen, dass er von einem Mitglied des Kanals überprüft wird, wenn er fälschlicherweise entfernt wurde
+  - Ein Kommentar muss:
+    - sich auf einen verifizierten Wissensbasis-Eintrag beziehen
+    - der Veröffentlichungsrichtlinie entsprechen
+2.2 Veröffentlichungsrichtlinie:
+- Sei freundlich, sprich wahrhaftig, sage nützliche Dinge.
+- Wenn du böswillige Aktionen erkennst, melde diese Aktion aktiv an die Moderatoren.
+
+
+3. Quiz-Generator-Bot
+
+
+4. Erklärer-Bot
