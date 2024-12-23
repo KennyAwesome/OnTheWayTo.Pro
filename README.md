@@ -4,14 +4,10 @@ For all the other legal disclaimers please refer to the chapter "disclaimer".
 The book with the title "42 - An open source framework for continous integration of modern knowledge into ancient wisdom to inspire artists in the age of artifical intelligence." is part of a larger art project called "OnTheWayTo.Pro".
 The book is an selected collection of 42 philosophical essays aiming to offer advices and encouragements to stay alive and to strive for a state of being which might be able to referred as "thriving".
 The author wants to emphasize the fact that these advices are not meant as medical advices and those who are in need of medical advices are advised to consult local health care professionals.
-The title of this book is inspired by the following passage from another book called "The Hitchhiker's Guide to the Galaxy":
-
-
-"The ultimate answer to life, the universe and everything is...42!"
-
-
+The title of this book is inspired by the following passage from another book called "The Hitchhiker's Guide to the Galaxy":   
+"The ultimate answer to life, the universe and everything is...42!"   
 The author is aware of the arbitrarity of that number in the line expressed with humor.
-The author is yet is excited by the idea to explore the possibility to make that sentence true for someone, who is willing to deduce an answer through a book which may be referred as "42".
+The author is yet excited by the idea to explore the possibility to make that sentence true for someone, who is willing to deduce an answer through a book which may be referred as "42".
 The author intends to keep offering free access to the book but appreciates donation or purchase of the book to fund an non profit organization called "Voice Of Humanity".
 The overall goal of the organization is to ensure the correct operation of a anonymous collaboration platform called "D5" to find solutions to the problems humanity is facing.
 Details are described in the chapters "foundation", "humanity" and "D5".
