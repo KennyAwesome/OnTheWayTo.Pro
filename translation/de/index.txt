@@ -1,7 +1,7 @@
 Überleben
 Bedürfnisse
 Frieden
-Gutes
+Gut
 Hoffnung
 Freude
 Privilegien
@@ -13,7 +13,7 @@ Freundschaft
 Ehre
 Humor
 Zivilisation
-Heimat
+Zuhause
 Asyl
 Loyalität
 Verantwortung
@@ -36,7 +36,7 @@ normal
 Mantra
 Versprechen
 Schutz
-Menschlichkeit
+Menschheit
 D5
 Grundlage
 ultimativ
