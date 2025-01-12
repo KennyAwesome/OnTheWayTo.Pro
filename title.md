@@ -4,4 +4,4 @@ subtitle: "An open source feedback framework for continous integration of modern
 author: "KennyAwesome"
 date: \today
 ---  
-![](./resources/qr_en.png)
+![](./qr_en.png)
