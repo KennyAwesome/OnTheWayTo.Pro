@@ -1,18 +1,18 @@
+#!/bin/bash
+cat ../title.md
+echo -e "\n"
 cat ../disclaimer.txt
-echo "\n"
+echo -e "\n"
 cat ../README.md
-echo "\n"
+echo -e "\n"
+echo "\tableofcontents"
+echo -e "\n"
+mapfile -t title < "../index.txt"
 j=0
 for i in $(cat ../index.txt)
 do
 j=$((j+1))
-echo "${j}. ${i}   \n   \n"
-done
-j=0
-for i in $(cat ../index.txt)
-do
-j=$((j+1))
-echo "# ${j}. ${i}   \n   \n"
+echo -e "# ${j}. ${i}   \n   \n"
 cat "../${i}.txt"
-echo "   \n   \n"
+echo -e "   \n"
 done
