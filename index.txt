@@ -1,6 +1,7 @@
 survival
 unity
 needs
+curiosity
 peace
 good
 feedback
@@ -38,5 +39,4 @@ mantra
 promise
 protection
 humanity
-D5
 ultimate
