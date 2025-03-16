@@ -89,3 +89,4 @@ ____
 "Discipline is the foundation upon which all success is built. Lack of discipline inevitably leads to failure."
 "Motivation gets you going, but discipline keeps you growing."
 "Discipline is choosing between what you want now, and what you want most."
+"Nothing will work unless you do."
