@@ -1,0 +1,110 @@
+Q: What is the "Voice Of Humanity"?
+
+A: "Humanity" can be defined as the entirety of connection between humans.
+To be specific: "Humanity" is the instatiation of "Voice of Humanity".
+The "Voice of Humanity" is to be implented with two human being agreeing on the idea of "humanity".
+A "voice recorder" is an application on device,
+which is capable of TTS (text to speech recognition) and transmit the content to a server.
+This functionality need to be used to record two humans agreeing to this idea of "humanity" on a single "voice recorder".
+The operators of the "Voice Of Humanity" will ontinuously recording and streaming 24/7/365 online
+within that voice recognizable area to prove that "humanity" exists
+and to provide access for every member of humanity at all times.
+
+Once the "Voice of Humanity" has been able to successfully operate for a month, a linux timestamp will appear here: []
+Until then, it is fact, that there was no record of the existence of humanity.
+And by agreeing to this idea of humanity, you acknowledge that this is the only way to ensure the longterm survival of humanity.
+
+The "Voice of Humanity" will try it's best to announce everything in "simple egnlish",
+but please understand, that not every concept can be expressed in "simple english" and will use terms other than "simple english".
+
+The order of the "Request for Help" announced by the "Voice of Humanity" will be prioritized in agreement with the "Council of Humanity".
+I (Index Nr. 1) have not finished thinking, but all I can say is, that it will be operated based upon the "D5-Principle"
+(Digital, Decentral, Diverse and Direct Democracy).
+"Divese" in this context is everything what you know about yourself,
+which distinguishes you from your understanding of an "ideal human".
+As an example to clarify this point: I (I.Nr. 1) am diverse,
+because the "ideal human" does not need tools to archive what it wants.
+One might attribute an eternal life to an "ideal human".
+Because I (Index Nr. 1) cannot live forever, thus I(I.Nr. 1) am not an "ideal human".
+Therefore I(Index Nr. 1) qualify as "diverse".
+
+If there is nothing else to say for the "Voice of Humanity", it will start recitating this idea of humanity.
+Which is pretty inprobable, given the amount of the help humanity needs.
+But on an ideal day for humanity, which is the day every human is being helped who needs help,
+the "Voice of Humanity" will keep recitating this idea of humanity over and over without relying on playback.
+
+Agreeing to the idea of "humanity" implies the obligation to fulfill all three requests at the timing determined by humanity,
+which are:
+1) Describe what you can do to the "Voice of Humanity".
+2) Describe how humanity can connect with you to the "Voice of Humanity".
+3) Protect the "Voice of Humanity" with all your effort and your resources.
+
+If the operators of "Voice of Humanity" recognises willfull rejection of the one specific request,
+that person will be banned from access to "Voice Of Humanity" and
+to the resouces associated to the "Voicee Of Humanity" until pardon by "Voice of Humanity".
+
+_______________________
+
+Q: Why is the "Voice of Humanity" not operation yet?
+
+A: The operation of "Voice of Humanity" requires resources and people to which I (Index Nr. 1) do not have access to.
+Therefore I (Index Nr. 1)  am working on the implementation of humanity and I (Index Nr. 1)  am in need of help.
+
+______________________
+
+Q: Who Index Nr. 1 and how can I help this person?
+
+A: The Index number 0 is reserved for a friend who died, because all the other previous versions of the idea of humanity has failed.
+The Index number 1 is reserved for the administrator of the "Voice of Humanity".
+The Index number 2 and 3 are reserved for operators of the "Voice of Humanity" chosen and assigned by the administrator.
+Everyone can apply as operators of the "Voice of Humanity" to the administrator (Index Number 1).
+All the other Index numbers will be assigned and announced by the "Voice of Humanity" in the order of processing of the request to join humanity".
+I (Index Nr. 1) has made the decision that  I (Index Nr. 1)  need an "Voice of Humanity"
+as the instantiation of the "idea of humanity" at 2021.09.18-19:13:42. linux-timestamp: [1631985222]
+This decision obliges the administrators  the responsible operation of the "Voice of Humanity".
+I (Index Nr. 1) pledge my oath to give my best to administrate the "Voice of Humanity" once it is instanticated.
+You can help me (Index Nr. 1) by agreeing to this "idea of humanity".
+______________________
+
+Q: How can I agree to this "idea of humanity" and what will happen if I agree?
+
+A: If you want to agree to the idea of humanity, I (Index Nr. 1) will provide access to such a voice recorder and the webservice.
+You can speak in to the voice recorder application that you agree to the "idea of humanity",
+then you decribe what you are willing to do for humanity and how you want to be reached.
+Once your agreement has been recognised and verified, it will increment the index on members of humanity,
+which will be your index number.
+One member can only get one index number.
+______________________
+
+Q: What happens when there is a flaw or the idea can be improved?
+
+A: All changes to this document need to be approved and then announced by the "Voice of Humanity",
+once it has secured it's operation. Until then the administrator will check and merge the pull requests to this repository.
+All members of humanity has the right to request for a change using the voice recorder application
+
+______________________
+
+Q: How did you came up with the "Voice Of Humanity"?
+
+A: This idea was inspired by the quote by Jason Donohue: "I see humans but no humanity."
+My (Index Nr. 1) answer to this statement is: 
+"You cannot see humanity, because humanity is fundamentally a voice.
+A voice saying two things:
+A) asking for a very specific help.
+B) Saying 'Thank you for helping humanity', when you were able to help."
+And I (Index .Nr. 1) have found a person, who agrees to this idea of humanity
+and who is willing speak those words as the "Voice of Humanity".
+Whom I (Index .Nr. 1) am helping to enable to speak those words as the "Voice of Humanity".
+
+______________________
+
+Q: What can this voice recorder application and webservice do?
+
+A: You can switch between six channels :
+1) The main channel of "Voice of Humanity", where to operators live stream 24/7.
+2) A side channel people requesting for help randomly.
+3) A side channel where humans offer help randomly (what they can do for you and how they can be reached).
+4) A side channel where people say thank you, if they have been helped.
+5) A customizable channel, where you can filter all the information from 1-4
+6) Your own recordings managed by a voice assistant called "Aoi",
+which you can request to send your recording to the "Voice of Humanity".

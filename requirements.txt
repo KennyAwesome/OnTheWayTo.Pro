@@ -1,0 +1,40 @@
+"Eudaimonia" is a concept describing
+a state of human being who is in a optimal state
+of thriving.
+One may refer to that state as "flow",
+a state of full immersion and concentration
+in the task at hand.
+Within the constraints of artistic freedom to define,
+that state will be referred to as "Pro".
+To reach and prolong the state "Pro" as fast and
+as long as possible, it requires guidance.
+
+To provide such guidance, here are the requirements for a terminal running a client application:
+1) At least 4GB DDR4 RAM for offline speech recognition and local LLM
+2) At least the computing power of H618 processor
+3) Throat microphone to respect privacy of others
+4) Rechargable battery operated for artistic freedom
+5) Ability for conversational guidance in accordance to the mantra:
+"We are all on the way to Pro."
+6) Access and compliance to the guidelines for "Voice of Humanity" foundation
+7) Custom wake word "Aoi" to activate access to the server.
+
+Here is the overall design for the server:
+1) E2E encryption
+2) Access to P2P network
+3) Direct communicaiton to a gateway
+4) Self hosted
+5) zero knowledge hosting
+6) GPU accelerated STT engine (faster-whisper probably)
+7) GPU acclerated embedding model and vector database
+8) GPU acclerated multiagent llms
+9) GPU acclerated knowledge database (neo4j probably)
+10) Deterministic generation of knowledge base from the philosophical essays
+11) GPU accelerated TTS engine (piper probably)
+12) Using "Prompt.txt" as prefix for prompt.
+13) Deployment using nixos, docker, radicle.xyz and ipfs (Probably)
+14) Implementing various gateways for client applications
+
+
+
+

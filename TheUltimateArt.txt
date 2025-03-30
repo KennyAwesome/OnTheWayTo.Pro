@@ -1,0 +1,2 @@
+This link is outdated. Please refer to the chapter "ultimate", which can be accessed here:
+https://raw.githubusercontent.com/KennyAwesome/OnTheWayTo.Pro/refs/heads/main/ultimate.txt
