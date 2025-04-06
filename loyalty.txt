@@ -1,17 +1,5 @@
-One might aspire to love as in the following statement:
-"There is nothing more truly artistic than to love people"
-Those who do not know how to live might appreciate the following quote:
-"Trust is the first step to love."
-Those who trust might appreciate the following warning:
-"Trust but verify."
-Those who seek to verify might appreciate the following advice:   
-"The best way to find out if you can trust somebody is to trust them."
-Those who become hesitatant might understand one reason why they might hesitate in these words:
-"Trust takes years to build, seconds to break, and forever to repair."
-Those who seek to prevent such break might appreciate the following warning:
-"Trust is earned, respect is given, and loyalty is demonstrated. Betrayal of any one of those is to lose all three."
-Those who struggle from such betrayal might appreciate the following explaination:
-"Forgiveness is not something we do for other people. It’s something we do for ourselves to move on."
+[Todo integrate to a different chapter]
+
 Those who seek to move on might be confronted with the following situation:
 "It’s easy to be a naive idealist. It’s easy to be a cynical realist.
 It’s quite another thing to have no illusions and still hold the inner flame."
