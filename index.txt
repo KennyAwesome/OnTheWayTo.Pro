@@ -17,7 +17,7 @@ humor
 civilization
 home
 asylum
-loyalty
+health
 responsibility
 originality
 clarity
