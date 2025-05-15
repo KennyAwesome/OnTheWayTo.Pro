@@ -1,7 +1,7 @@
 ---
 title: "42"
-subtitle: "An open source feedback framework for continous integration and application of ancient wisdom to modern knowledge to inspire peace in the age of artificial intelligence in the form of an artists manifesto."
-author: "KennyAwesome"
+subtitle: "Context for an open source feedback framework to establish the consensus that peace might be good."
+author: "An anonymous artist"
 date: \today
 ---  
 ![](./qr_en.png)
