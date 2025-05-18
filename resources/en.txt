@@ -5,7 +5,7 @@ author: "An anonymous artist"
 date: \today
 ---  
 ![](./qr_en.png)
-Commit-hash: cf70c48b5cde8b6c4bef53d2e5a1533404751b4d
+Commit-hash: d8bc23613f431f90bc2cfa97ac18fb690f324b03
 
 
 # Disclaimer   
@@ -680,10 +680,15 @@ The understanding of the concept of "happiness" might vary, but one might be abl
 "Happiness is the blissful state in which all needs are satisfied."    
 Those who seek to understand such needs, might apreciate the chapter on "needs". One might then realize that such a state might be difficult to reach in a world, given the circumstances that one's source for knowledge might be full of contradicting misinformation. One might then try to resort to science, but given the subjective nature of the topic, one might be still left confused.    
 One might appreciate to read following document with critically with caution, to avoid the temptation of hedonism, which could be defined as:    
-"When enough is not enough, a Hedonist is born."    
-One might then be able to find a certain degree of happiness, while addressing each layer of "hierarchy of needs" one by one bottom up, mentioned in the same named document.    
-While doing so, one may wonder what "joy" would be, for those the following quote might be insightful:    
-"Next to doing a good job yourself, the greatest joy is having someone else do a first class job under your direction."
+"When enough is not enough, a hedonist is born."    
+Those who seek to understand why such a hedonist might be born, might appreciate these words:   
+"Hedonism can be a rational response to a difficult life."    
+Those who struggle with such a difficult life, might appreciate these words:
+"It’s easy to be a naive idealist. It’s easy to be a cynical realist. It’s quite another thing to have no illusions and still hold the inner flame."    
+Those who struggle to hold their "inner flame", which might be understood as a metaphor, might find a way to reignite it through these words:
+"In everyone’s life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being."
+Those who seek to encounter such a being, might appreciate the following insight:    
+"Next to doing a good job yourself, the greatest joy is having someone else do a first class job under your direction."   
 Eventhough it might encourage some to become a tyrant,  one might also realize something good - the essence of joy. Which is that one might feel joy through action, because during action one can reach the state of "flow", in which one is able to forget ones own suffering without self destructive hedonism. One might then realize that one might be able to feel happiness and joy at the same time, while adressing ones own needs consciously:    
 The highest need in the mentioned "hierarchy of needs" is called "self transcendence", which was found later in the notes of the author of that book. What was referred to as in the mentioned quote "someone else do a first class job under your direction"  could be understood as "self transcendence", which might be the very reason why the author called it "the greatest joy", because it is indeed adressing one's own need of "self transcendence".
 For those who desires to do it right away, one should only offer what is abundant, because the world operates with the following principle described well as in:    
