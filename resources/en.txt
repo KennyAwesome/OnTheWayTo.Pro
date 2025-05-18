@@ -5,7 +5,7 @@ author: "An anonymous artist"
 date: \today
 ---  
 ![](./qr_en.png)
-Commit-hash: db1e1fd3a22a91c72cf46c62188355148f615f34
+Commit-hash: cf70c48b5cde8b6c4bef53d2e5a1533404751b4d
 
 
 # Disclaimer   
@@ -172,7 +172,7 @@ Those who have found such strength within oneself, might appreciate these words:
 Those who seek to thrive might appreciate these words:   
 "The only way to thrive is to innovate."   
 Those who seek to innovate might appreciate these words:   
-"The reasonable man adapts himself to the world; the unreasonable one persists to adapt the world to himself. Therefore all progress depends on the unreasonable man."   
+"The reasonable one adapts himself to the world; the unreasonable one persists to adapt the world to himself. Therefore all progress depends on the unreasonable one."   
 Those who seek such progress might appreciate these words:    
 "Strength and growth come only through continuous effort and struggle."   
 Those who struggle to continue putting effort, might appreciate the following mantra:
@@ -351,7 +351,7 @@ Those who then seek improve the formal education might appreciate these words:
 Those who seek to lead might appreciate the chapter on "clarity". Those who seek to recognize such bad teachers, might appreciate these words:   
 "When people don’t have any curiosity about themselves, that is always a bad sign."   
 One might understand one reason why the lack of curiousity about oneself might be a bad sign in these words:   
-"There are no foolish questions, and no man becomes a fool until he has stopped asking questions."   
+"There are no foolish questions, and no one becomes a fool until he has stopped asking questions."   
 Those who seek to understand how such people might cause harm, might appreciate these words:   
 "The bad teacher imposes his ideas and his methods on his pupils, and such originality as they may have is lost in the second-rate art of imitation." 
 Those who think that they have lost their originality might appreciate the chapter on "originality". Those who are still imposing such ideas and methods might appreciate these words:   
@@ -453,7 +453,7 @@ Those who seek to understand such weakness, might appreciate these words:
 Those who seek to conquer such fear, might appreciate these words:    
 "Thinking will not overcome fear but action will."    
 Those who then seek to act, might appreciate the words:   
-"Man has three ways of acting wisely. First, on meditation; that is the noblest. Secondly, on imitation; that is the easiest. Thirdly, on experience; that is the bitterest."   
+"One has three ways of acting wisely. First, on meditation; that is the noblest. Secondly, on imitation; that is the easiest. Thirdly, on experience; that is the bitterest."   
 Those who have tried meditation, might reach such conclusion as in:
 "The problem with incompetence is its inability to recognize itself."    
 Those seek to recognize the incompetence within oneself, might appreciate these words:   
@@ -514,7 +514,7 @@ Those who seek to understand the nature of such excuses, might appreciate these 
 Those who seek to understand what might be guarding such a lie, might appreciate the following insight:   
 "Human reason can excuse any evil."    
 Those who then seek to prevent such evil, might appreciate these words:   
-"No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks."   
+"No one chooses evil because it is evil; he only mistakes it for happiness, the good he seeks."   
 Those who seek such good, might appreciate these words:   
 "Human nature is evil, and goodness is caused by intentional activity."   
 Those who seek to understand such intentional activity, might appreciate these words:   
@@ -538,7 +538,7 @@ Those who seek to accept everything about themselves, might appreciate these wor
 Those who might still struggle to accept themsevel unconditionally, might appreciate these words:   
 "Resistance is experienced as fear; The degree of fear equates to the strength of resistance."   
 Those who wonder, what the strongest kind of such fear might be, might appreciate these words:    
-"The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown."    
+"The oldest and strongest emotion of humankind is fear, and the oldest and strongest kind of fear is fear of the unknown."    
 One might appreciate the following wisdom to find a clue to overcome that fear:
 "Thinking will not overcome fear, but action will."   
 Those who seek to know such action, might appreciate these words:    
@@ -558,7 +558,7 @@ Those who seek to understand such irrational obsession, might appreciate these w
 Those who seek such obsession, might appreciate these words:    
 "Grit is the stubborn refusal to quit."    
 Those who seek such grit, might appreciate these words:   
-"Everything can be taken from a man but one thing: the last of the human freedoms— to choose one's attitude in any given set of circumstances, to choose one's own way."    
+"Everything can be taken from oneself but one thing: the last of the human freedoms— to choose one's attitude in any given set of circumstances, to choose one's own way."    
 Those who seek to understand such attitude, might appreciate these words:   
 "Your attitude is an expression of your values, beliefs and expectations."    
 Those who seek to undrestand such expression, might appreciate these words:    
@@ -674,49 +674,21 @@ P.S. One might find only this in stainless steel engraved page of a document cal
 # 9. joy   
    
 
-The understanding of the concept of "happiness" may vary,
-but the essence would be mostly the same,
-which is the blissful state in which all needs are satisfied.
-But it is a state which is very difficult to reach in a world,
-which is flooded with contradicting informations.
-One may to resort to science, but given the subjective nature of the topic,
-one might be still left confused.
-The following document should be read critically with caution,
-to avoid the temptation of hedonism.
-One may find a certain degree of happiness,
-while addressing each layer of "hierarchy of needs" one by one bottom up,
-mentioned in the same named book.
-While doing so, one may wonder what "joy" would be,
-for those the following quote might be insightful:
-"Next to doing a good job yourself,
-the greatest joy is having someone else do a first class job
-under your direction."
-Eventhough it might encourage some to become a dictator, 
-one might also realize something good - the essence of joy.
-Which is that one may feel joy through action,
-because during action one can reach the state of "flow",
-in which one is able to forget ones own suffering without 
-self destructive hedonism.
-One might then realize that one might be able to feel
-happiness and joy at the same time,
-while adressing ones own needs consciously:
-The highest need in the mentioned "hierarchy of needs"
-is called "self transcendence",
-which was found later in the notes of the author of that book.
-What was referred to as in the mentioned quote
-"someone else do a first class job under your direction" 
-could be understood as "self transcendence",
-which might be the very reason why the author called it "the greatest joy",
-because it is indeed adressing one's own need of "self transcendence".
-For those who desires to do it right away,
-one should only offer what is abundant,
-because the world operates with the following principle
-described well as in:
-"You take what you can get and hold on tight to it -
-by any means necessary.
-After all you only live once."
-For those suffering because they think they have nothing to offer,
-one might appreciate the chance to give them the following mantra:
+One might find oneself seeking for happiness as in:    
+"Most people are searching for happiness outside of themselves. That’s a fundamental mistake. Happiness is something that you are, and it comes from the way that you think."     
+The understanding of the concept of "happiness" might vary, but one might be able to agree to the following consensus:   
+"Happiness is the blissful state in which all needs are satisfied."    
+Those who seek to understand such needs, might apreciate the chapter on "needs". One might then realize that such a state might be difficult to reach in a world, given the circumstances that one's source for knowledge might be full of contradicting misinformation. One might then try to resort to science, but given the subjective nature of the topic, one might be still left confused.    
+One might appreciate to read following document with critically with caution, to avoid the temptation of hedonism, which could be defined as:    
+"When enough is not enough, a Hedonist is born."    
+One might then be able to find a certain degree of happiness, while addressing each layer of "hierarchy of needs" one by one bottom up, mentioned in the same named document.    
+While doing so, one may wonder what "joy" would be, for those the following quote might be insightful:    
+"Next to doing a good job yourself, the greatest joy is having someone else do a first class job under your direction."
+Eventhough it might encourage some to become a tyrant,  one might also realize something good - the essence of joy. Which is that one might feel joy through action, because during action one can reach the state of "flow", in which one is able to forget ones own suffering without self destructive hedonism. One might then realize that one might be able to feel happiness and joy at the same time, while adressing ones own needs consciously:    
+The highest need in the mentioned "hierarchy of needs" is called "self transcendence", which was found later in the notes of the author of that book. What was referred to as in the mentioned quote "someone else do a first class job under your direction"  could be understood as "self transcendence", which might be the very reason why the author called it "the greatest joy", because it is indeed adressing one's own need of "self transcendence".
+For those who desires to do it right away, one should only offer what is abundant, because the world operates with the following principle described well as in:    
+"You take what you can get and hold on tight to it - by any means necessary. After all you only live once."    
+For those suffering because they think they have nothing to offer, one might appreciate the chance to give them the following mantra:   
 "We might be all on the way to Pro."
    
 
@@ -809,7 +781,7 @@ Those who then seek to survive, might appreciate the following mantra:
 Disclaimer: This document does not endorse violent rebellion of any kind. The intention is to offer an inspiration to find peace within oneself.
 
 One might suffer by blaming oneself with such words:
-"Every man is guilty of all the good he did not do."
+"Everyone is guilty of all the good he did not do."
 Those who feel guilty might appreciate these words:
 "A guilty conscience never feels secure."
 Those who feel insecure might appreciate these words:
@@ -1015,7 +987,7 @@ Those who seek to stop escaping from boredom might appreciate these words:
 "Boredom is only for boring people with no imagination."
 Those who seek such imagination, might appreciate the chapter on "imagination".
 Those who did not have the capacity for such imagination, might appreciate the following inspiration:
-"The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy."      
+"The struggle itself towards the heights is enough to fill one's heart. One must imagine Sisyphus happy."      
 Those who seek such heights might appreciate the following advice:
 "Tell your heart that the fear of suffering is worse than the suffering itself."   
 Those who find themselves in such fear, might appreciate these words:   
@@ -1039,7 +1011,7 @@ Those who seek to heal might find a clue on how to heal oneself in the following
 4. Those who become controlling, might have experienced betrayal. Those might appreciate the chapter on "loyalty".   
 5. Those who become rigit and inflexible, might have experienced injustice. Those might appreciate the chapter on "good".   
 Those who struggle to heal on their own might appreciate the following mantra:   
-"We are all on the way to Pro."
+"We might be all on the way to Pro."
    
 
 # 16. humor   
@@ -1135,7 +1107,7 @@ Those who seek to raise such consciousness of such a civilization, might appreci
 One might understand one reason why transparency might be for those who carry out public duties in these words:    
 "Transparency seeds collaboration."   
 Those who seek to excersise such public power, might appreciate the following insight:   
-"Civilization is the progress toward a society of privacy. The savage’s whole existence is public, ruled by the laws of his tribe. Civilization is the process of setting man free from men."   
+"Civilization is the progress toward a society of privacy. The savage’s whole existence is public, ruled by the laws of his tribe. Civilization is the process of setting one free from others."   
 One may appreciate the following realization as well:   
 "Privacy, precisely because it ensures that we are never fully known to others, provides a shelter for imaginative freedom, curiosity and self-reflection."    
 One might then appreciate the following advice:   
@@ -1168,7 +1140,7 @@ Those who seek such people might appreciate the chapters "friendship" and "trans
 Those who seek to understand the necessity for the capability to bear to be with oneself, might appreciate these words:   
 "I restore myself, when I am alone."
 Those who struggle to restore themselves, might appreciate these words:    
-"All of humanity's problems stem from a man's inability to sit quietly in a room alone."    
+"All of humanity's problems stem from one's inability to sit quietly in a room alone."    
 Those who are tired of sitting in a room alone, might appreciate these words:
 "When we are tired, we are attacked by ideas we conquered long ago."   
 One might appreciate this document as one way to prepare for the future attacks trying to study the mentioned "old ideas". One way to understand "old ideas" could be referred as "ideology", which definitions may vary due to its complex nature. One might then appreciate a document titled "Blood and Soil", in which the following four traits of genocidal ideologies are mentioned:   
@@ -1562,7 +1534,7 @@ Regarding Priority D, one might appreciate the following words:
 Those who seek to know what not to do, might appreciate these words:    
 "Courage is knowing what not to fear."    
 Those who hesitate to act because of the fear of failure, might appreciate these words:   
-"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."
+"One is great not because he hasn't failed; one is great because failure hasn't stopped him."
 Those who seek such greatness, might appreciate these words:    
 "Greatness is never achieved by trying to imitate the greatness of another. Greatness is chipping away at all that does not belong to you and then expressing yourself so truly that others can’t help but recognize it."    
 Those who seek to know, what might remain after one has been chipping away at all that does not belong to oneself, might appreciate these words:
@@ -1611,13 +1583,13 @@ Those who has lost their reason for living, might appreciate these words:
 Those who seek to continue, might appreciate these words:
 "Continual improvement is an unending journey."
 Those who are devastated by such an realization, might find courage in the following realization:
-"The struggle itself towards the heights is enough to fill a man’s heart."   
+"The struggle itself towards the heights is enough to fill one’s heart."   
 Those who seek towards such heights might appreciate these words:
 "A quitter never wins and a winner never quits."   
 Those who are tempted by the idea to quit might appreciate these words:
 "The magic you are looking for is in the work your avoiding."   
 Those who seek to overcome such avoidance of work, might appreciate these words:    
-"The only thing that will redeem mankind is cooperation."    
+"The only thing that will redeem humankind is cooperation."    
 Those who seek to understand such cooperation, might appreciate these words:    
 "Cooperation means to be willing to sacrifice for the sake of others."
 Those who are tempted to give up their own life to love others, might appreciate these words:  
@@ -1656,7 +1628,7 @@ The following wisdom might be helpful to recognize corruption:
 One might appreciate the following solution approach:   
 "While transparency reduces corruption, good governance goes beyond transparency in achieving openness. Openness means involving the stakeholders in decision-making process. Transparency is the right to information while openness is the right to participation."    
 Those who then have to make decisions in general might appreciate the following words:    
-"Choice is the essence of ethics: If there were no choice there would be no ethics, no good, no evil; Good and evil have meaning only insofar as man is free to choose."    
+"Choice is the essence of ethics: If there were no choice there would be no ethics, no good, no evil; Good and evil have meaning only insofar as one is free to choose."    
 For those who wonder what to choose, might appreciate these words:    
 "Ethics may be defined as the obligations of morality."    
 Those who wonder what such oblication of morality might be, might appreciate the following definition:    
@@ -1674,7 +1646,7 @@ Those who seek such approval, might appreciate these words:
 Those who seek to be their own witness, might find a way out of such a state of fear in the following realization:    
 "Fear can only be mastered outside of your comfort zone."   
 One might understand one reason why that might be in these words:   
-"A man who avoids suffering is a slave to comfort."    
+"One who avoids suffering is a slave to comfort."    
 Those who seek the courage to face one's own suffering, might appreciate these encouraging words:   
 "The pathway to your greatest potential is straight through your greatest fears!"    
 One might then appreciate the following wisdom:    
@@ -1729,8 +1701,7 @@ Those who seek such strength might appreciate these words to stay committed to c
 Those who feel stuck after such commitment might appreciate these words:
 "What is the progress that i make what my mind thinks that it is a mistake."
 Those who cannot figure out what such mistake might be, might realize it through these words:
-"The fear of death follows from the fear of life.
-A man who lives fully is prepared to die at any time."
+"The fear of death follows from the fear of life. One who lives fully is prepared to die at any time."
 Those who seek to prepare oneself for one's own final day might appreciate the advice to minimize the dependence to oneself through sufficienct documentation and training for one's successor. Those who do not know what to document, might find an inspiration for a simple way to prepare as the author did by wishing to mention only the following line in the obituary of the author:
 "We might be all on the way to Pro."
 
@@ -1907,8 +1878,8 @@ one needs to find and work on a skill, which is in essence "self actualization" 
 The author of that book proposed that humans have also non-materialistic needs,
 and humans would suffer, if those needs are not met.
 But to reach that level, all the other levels of the hierarchy of needs must be met first, otherwise one will be overwhelmed. 
-Regarding the action to bear the suffering one can understand the reference to the book "Man's search for meaning"
-to which it has been referred as: "The purpose of life is finding the largest burden that you can bear and bearing it."
+Regarding the action to bear the suffering one can understand the reference to a document "Man's search for meaning"
+to which it has been referred as: "The purpose of life is finding the largest burden that you can bear and bearing it." (One might appreciate the understanding that "man" in this context is a generalization of human, which is regardless the gender.)
 If one succeeds in getting intoo the flow state while one is in the act of bearing the suffering, one can transcend his own suffering.
 In the "hierarchy of needs" it is called "self transcendence",
 which is to offer all the abundant resources and skills accumulated during the process of "self actualization".
@@ -1959,7 +1930,7 @@ Those who seek to overcome such avoidance of work might get started by saying th
    
 
 One might find oneself having a bad day as in:   
-"All it takes is one bad day to reduce the sanest man alive to lunacy."   
+"All it takes is one bad day to reduce the sanest one alive to lunacy."   
 Those who struggle with such a bad day might appreciate these words:   
 "Turn really bad days into really good data."   
 Those who seek to understand what such data might be, might appreciate these words:   
@@ -1980,7 +1951,7 @@ As one once said:
 One might have already understood the problem:    
 "All children are artists. The problem is how to remain an artist one he grows up."   
 One might see a solution approach to that problem as in:   
-"The ultimate question for a responsible man to ask is not how he is to extricate himself heroically from the affair, but how the coming generation is going to live."   
+"The ultimate question for a responsible one to ask is not how he is to extricate himself heroically from the affair, but how the coming generation is going to live."   
 Those who are concerned with the upbringing of such a generation, might appreciate the following thought:
 "Religion attacks us in our deepest integrity by saying we wouldn't be a able to make a moral decision without it."    
 Those who seek to make moral decisions without compromising the integrity of their own mind, might appreciate these words:    
@@ -1996,7 +1967,7 @@ Those who seek to make heaven out of hell, might appreciate these words:
 Those who seek to understand which one might refer to as sacred, might appreciate these words:   
 "Nothing is at last sacred but the integrity of your own mind." 
 Those who seek to restore their integrity of their own mind, might appreciate these words:    
-"Enlightenment is man's emergence from his self-incurred immaturity."   
+"Enlightenment is one's emergence from his self-incurred immaturity."   
 Those who seek such emergence, might appreciate these words:   
 "Maturity is having the courage to use one's own intelligence."   
 As someone already pointed out:   
@@ -2237,7 +2208,7 @@ Those who seek a simple habit to prepare oneself for the future might appreciate
    
 
 One might find oneself feeling trapped in repeating the same daily routine to the degree that one might dread every step. Those who seek to escape such routine, might appreciate these words:   
-"The awakening of consciousness is the next evolutionary step for mankind."    
+"The awakening of consciousness is the next evolutionary step for humankind."    
 Those who then aspires to understand what such "consciousness" might be, might be left confused as in:   
 "We have no idea how the subjective quality of consciousness emerges from the physical stuff of the brain."   
 But some might appreciate the following definition:    
@@ -2379,7 +2350,7 @@ Those who seek not to sacrifice their health, might appreciate the chapter on "h
 Those who seek to know, whether one might be such a folly, might appreciate these words:
 "A fool thinks oneself to be wise, but a wise one knows oneself to be a fool."
 Those who have then realised to be a food, might appreciate these words:
-"Do not correct a fool, or he will hate you; correct a wise man and he will appreciate you."
+"Do not correct a fool, or he will hate you; correct a wise one and he will appreciate you."
 Those who seek to appreciate such correction but struggle to do so, might understand what one might need through these words:
 "You can’t accept correction when you are not humble to listen."
 Those who lack such humility to listen, might appreciate these words:
@@ -2387,7 +2358,7 @@ Those who lack such humility to listen, might appreciate these words:
 Those who don't know that such answers might be unattainable, might appreciate these words:
 "Nobody has all the answers, because all the best answers generate more questions."
 Those who hesitate to ask such question, might appreciate these words:
-"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life"
+"The one who asks a question is a fool for a minute, the one who does not ask is a fool for life"
 Those who do not want to remain such a fool, might appreciate these words:
 "Life's most persistent and urgent question is, 'What are you doing for others?'"
 Those who do not have the capacity to answer it for themselves, might appreciate these words:
@@ -2419,7 +2390,7 @@ One might understand one reason why one might seek to understand one's own hubri
 Those who keep seeking to understand, might appreciate the advice to keep asking "why" until one cannot answer anymore. Those who could not answer anymore, might appreciate to know that such "final reason" might be able to define as "believe" as in:   
 "One believes things because one has been conditioned to believe them."   
 Those who have recognized one's own conditioning, might appreciate these words:   
-"Man’s conditioning has been so powerful that it has all but destroyed his ability to be self aware."    
+"One’s conditioning has been so powerful that it has all but destroyed his ability to be self aware."    
 Those who seek to regain the ability to be self aware, might appreciate the following explaination:   
 "Being self-aware is not the absence of mistakes, but the ability to learn and correct them."    
 Those who seek to correct their own mistakes, might appreciate these words:   
@@ -2427,7 +2398,7 @@ Those who seek to correct their own mistakes, might appreciate these words:
 Those who do not know what to accept, might appreciate these words:    
 "Not-knowing is true knowledge. Presuming to know is a disease. First realize that you are sick; then you can move toward health."     
 Those who seek to move toward health, might appreciate these words:  
-"The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."
+"The reasonable one adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable one."
 Those who seek to know whether one might be unreasonable, might appreciate these words: 
 "You will never understand the real definition of insanity until the day you are told it is unreasonable for you to feel hurt by the very people that hurt you."
 Those who realize that they have been hurting others, might appreciate these words:
@@ -2530,7 +2501,7 @@ Once one has realized the cage around oneself might find oneself in despair. Tho
 "To recognize one’s own insanity is, of course, the arising of sanity, the beginning of healing and transcendence."   
 Those who seek such transcendence, might appreciate the chapter on "transcendence".
 Those who are beginning to heal might appreciate the following words of enouragement:   
-"The reasonable man adapts himself to the world; the unreasonable one persists to adapt the world to himself. Therefore all progress depends on the unreasonable man."   
+"The reasonable one adapts himself to the world; the unreasonable one persists to adapt the world to himself. Therefore all progress depends on the unreasonable one."   
 The author of that quote also added:   
 "Life isn’t about finding yourself. Life is about creating yourself."   
 Those who seek to create oneself might appreciate these words:   
@@ -2540,7 +2511,7 @@ Those who might despair again when reading "endlessly", might appreciat these wo
 One might appreciate the realization the author of that quote has reached:   
 "Suffering ceases to be suffering at the moment it finds a meaning."   
 One might appriciate how one may find meaning in suffering:   
-"The struggle itself towards the heights is enough to fill a man’s heart. One must imagine Sisyphus happy."   
+"The struggle itself towards the heights is enough to fill a one’s heart. One must imagine Sisyphus happy."   
 Those who cannot imagine might appreciate the encouragement to be an artist as in:   
 "An artist cannot fail; it is a success to be one."   
 Those who wonder when an artist is might appreciate the following realization:   
@@ -2552,7 +2523,7 @@ words of encouragement:
 "There may be people who have more talent than you, but there's no excuse for anyone to work harder than you do."   
 One might then appreciate the definition of talent as in:   
 "Talent hits a target no one else can hit; Genius hits a target no one else can see."   
-One might be tempted to ostracize others with extraordinary talents and goals. Thus it might be required for those in power to excercize compassion. One approach might be to recognise that it is possible to arrive at the same goal, without specifying the path through teaching as Immanuel Kant said it well:   
+One might be tempted to ostracize others with extraordinary talents and goals. Thus it might be required for those in power to excercize compassion. One approach might be to recognise that it is possible to arrive at the same goal, without specifying the path through the following words:   
 "Genius is the ability to independently arrive at and understand concepts that would normally have be taught by another person."   
 The word "genius" has one origin in latin meaning "creative force", which might be one aspect of all art. But as every force, that force can reap havoc, if it might be left unmastered. To prevent damage caused hubris of the narcissitic interpretation of "genius", humilty would be advisable. To prevent damage caused by naive playfulness of individuals with talents, humanity is adviced to have enough resources to educate them. Those who seek such education, might appreciate the chapter on "curiosity". One might then be able to appreciate the advise, not to remain naive about the containment of those individuals, as mentioned in the following warning:   
 "There is no great genius without some touch of madness."   
@@ -2644,8 +2615,8 @@ Those who seek to make such discovery, might appreciate to become aware of the l
 Therefore the author tries to convay principles, which might be useful, in order to achieve world peace as in:   
 "We can perhaps never know the truth with 100 percent certainty, but making correct predictions is the way to tell if we’re getting closer."   
 There might be disagreements or possible improvements to the principles mentioned in this document. In that case, the author appreciates all future the effort to improve this collection of documents. The author further also appreciates the understanding that not all attempts to change this document might be accepted into this collection for any given reason. In that case the author appreciates all the effort to understand the reason for rejection. If then one still thinks that the change might be crutial, then the author appreciates the effort explain it to the author or the maintainance team as in:
-"The reasonable man adapts himself to the world; the unreasonable one persists to adapt the world to himself. Therefore all progress depends on the unreasonable man."
-The author understands the word "man" as a general pronoun for an entity, and appreciates the understanding that it is not meant to discriminate. One might then admire the beauty of the language referred as "english", for which it may give one the ability to express free from gender, age and culture for the pure intent of communication with the least nuance possible. But it would be utterly useless, if it could not express the intention in full intensity as in the following words:   
+"The reasonable one adapts himself to the world; the unreasonable one persists to adapt the world to himself. Therefore all progress depends on the unreasonable one."
+One might then admire the beauty of the language referred as "english", for which it may give one the ability to express free from gender, age and culture for the pure intent of communication with the least nuance possible. But it would be utterly useless, if it could not express the intention in full intensity as in the following words:   
 "The only thing limiting your aspiration is your imagination."    
 Those who seek to understand such imagination, might appreciate the chapter on "imagination". One might undrestand one reason, why one's own imagination be a limitation through these words:   
 "The best use of imagination is creativity. The worst use of imagination is anxiety."   
