@@ -13,6 +13,7 @@ BOM:
 	Function 4: Tell bedtime story
 	Function 5: Scan document and send as mail to the user.
 	Function 6: Customizable button
+	Function 7: Play brown noise for focus
 - HDMI Screen, for the tutor to use as canvas, or to display face of AI or as immediate response of recording and adjusting the camera.
 
 
