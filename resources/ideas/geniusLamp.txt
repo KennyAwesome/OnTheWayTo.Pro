@@ -1,0 +1,112 @@
+Genius Lamp (play on word on Gienies lamp, fulfilling the deep desire of humans to be, maintain and improve productive seemingly effortlessly.
+Inspired by: https://youtu.be/IlU-zDU6aQ0
+At:  Desktop lamp robot connecting habit conditioning with time management techniques to archive greater productivity.
+
+BOM: 
+- Foldable Desktop Document scanner with light
+- A NUC or small linux computer with internet access
+- A speaker and microphone, such as a conference speaker
+- Buttons 
+	Function 1: Record question as video with the document scanner.
+	Function 2: Call a tutor, with the admin access to the Genius lamp
+	Function 3: Ask (local) AI with MCP functionality, such as calender, and googling (not to get distracted)
+	Function 4: Tell bedtime story
+	Function 5: Scan document and send as mail to the user.
+	Function 6: Customizable button
+- HDMI Screen, for the tutor to use as canvas, or to display face of AI or as immediate response of recording and adjusting the camera.
+
+
+To illuminatey enlighten and brighten your future.
+Fighting bravely alongside in this lonely world surving long sitting time and the temptations of distraction.
+
+ADHD tech, focus tech, improvement tech
+Empower tech, actualization tech, 
+
+- RGBW led + warm/cald led, internet connected with esp32, rotary encoder, display (led/TFT), ideally stainless steel but probably aluminum or 3d printed
+1) dial what you will productively do
+2) press rotary encoder to turn the lamp on
+3) after a time box, lamp turns off, you choose what to do to relax or strait go to next session
+4) clockwise productive options, counterclockwise relaxing 
+5) display the distribution on the scoreboards
+6) with Longpress, there will be options for sleep school work button to stop timer (or extra dial)
+7) task mode can be activated through a separate switch
+8) the order of task options will be sorted according to priority by Eisenhower and Kenny (3 prio categories: A (urgent + important = task), B (important but long-term, deep work) and Rest & Reward (social, entertainment, food, hobby) ) pause will have still the same mechanism
+9) in task mode it asks the user at the end or if interrupted by the user if the task is finished, so it can mark the Todo as done 
+10) there is a led ring consisting of 16 leds showing the time distribution of each priority categories.
+11) details, options and priorities can be edited through app, or web app or chat bot
+12) there is a web based scoreboard which you can configure as kiosk
+13) the task mode switch is a switch between prio A tasks based on time boxing and prio B tasks based on stopwatch to extend the focus length
+14) this lamp is portable  and foldable in version 2
+15) this lamp can programmed to light up at a specific time to wake you up and stops the time until you are ready for the first input, so that you don't waste time. Closing the lamp to be transported can be tagged later to mark from the non tracking time options.
+16) fixed time to tackle procrastination, how to options qualify for this? Recognize? Chatbot?
+17) battery is just an addon, with authenticator, because it can include sensitive data. And maybe mobile internet?
+18) it will interrupt pause every configured minutes, so that you don't distract yourself
+19) maybe host the whole thing on a raspberry pi locally?
+20) batching for at the end of the day
+21) diffence is, it is now tracking, you can schedule but don't have to.
+22) customize flow of the day, week, month
+23) first implement chatbot, and the lamp is using the chatbot interface?
+24) you can #log remarks to the chat bot and it will add to the current time box
+25) you can #batch spontaneous thoughts
+26) Button that I was distracted
+27) button to speak into, without calling voice assistant, so that you don't get out of flow, and speech recognition or you can annotate yourself later.
+28) dimmimg of warmweiß und kaltweiß
+29) statt led ring touch display? (Yes no wird einfacher und kann mehr Text anzeigen.
+30) motivate with reasons
+31) notification for prio A, if you are waiting for someone else.
+32) friends list to maintain, suggesting random people name and remind birthday.
+33) the necessity of a chatbot is to empower with this uplifting phrases: wir schaffen das! (Crowd motivation)
+34) track what distracted you, with the voice log button
+35) the app will have editor, chatbot, calendar, scoreboard, configurator (BT)
+36) distraction need to be  able to marked silenty from option, in case collegues are nearby. (Extra button? With duration?)
+37) interconnection with other platforms like Jira for efficiency
+38) browser extension
+39) Raspi breakout board
+40) quick notes (userbility) on the app
+41) getting sun, environment brightness
+42) quick Foto function to digitalize handwritten work for deep work at the tip of lamp
+43) and to vent frustration
+44) how would you talk to people, who do fail like you.
+45) self compassion
+46) logging that you were productive primes you for motivation
+47) speaker for emotional talking
+48) actuated hinges (opens by itself) to make sound, to lock, but to show emotions, home security functality
+49) modular and replacable and cistomizable
+50) people feel stuck, because they cannot make progress visible. Gienie makes your progress visible, so it is fun to do whatever you need to get done.
+51) smartwatch notification is hindering
+52) instructions how to deploy, and get the newest updates, and I am hosting only for those who wants
+53) sync data over ble and app if no wifi
+54) customizable quick widget page
+
+---------
+How to include backtracking based thinking?
+
+
+
+-----------
+
+Prio A: can but not have to be pointed at B
+
+Option B:
+- study subjects, topics
+- being productive projects
+- maintanence (paperwork, fixing, finding solutions)
+
+
+Option for priority R:
+- meditate, dance, jump rope, read notes, book, learn language, look at message, work out, eat, toilet, go for a walk, (smoke), listen to music, clean up, play music, think about quotes, tea coffee colleague talking, meal prep, brainstorm, update old projects, ukulele, 
+
+-----
+Tips for increasing focus/willpower
+- hydration
+- blood pumping
+- 
+
+-----
+Personal development:
+- ask you what you need to do, and why you are not doing it
+- what you know need to stop doing, and why you are not doing it.
+- distinguish between real problems and excuses
+- human evaluation
+- it will be me, with the proper advices
+- self-actualization, Joy of skill improvement
