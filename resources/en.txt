@@ -1,11 +1,11 @@
 ---
 title: "42"
 subtitle: "Context for an open source feedback framework to establish the consensus that peace might be good."
-author: "An anonymous artist"
+author: "An anonymous artist,who might be on the way to Pro."
 date: \today
 ---  
 ![](./qr_en.png)
-Commit-hash: 75ee2041ab366f5a8cab8d5d2817c0a3409ee6d4
+Commit-hash: 52d149277f48fe9d8498abc73c5d3f6b9968be63
 
 
 # Disclaimer   
@@ -106,8 +106,10 @@ Those who seek such discipline, might appreciate these words:
 Those who struggle to follow up to one's own command, might appreciate these words:   
 "The body should be treated more rigorously, so that it may not be disobedient to the mind."     
 Those whose body has been disciplined by others as a punishment might appreciate these words:   
-"Discipline of others should not be a punishment. You discipline to help, to improve, to correct, to prevent, not to punish, humiliate, or retaliate."
-Those who no longer seek to be disciplined by others, might appreciate these words:  
+"Discipline of others should not be a punishment. You discipline to help, to improve, to correct, to prevent, not to punish, humiliate, or retaliate."    
+Those who are confronted with those who seek to punish, might appreciate these words:    
+"Distrust all in whom the impulse to punish is powerful."
+Those who then no longer seek to be disciplined by others, might appreciate these words:  
 "Discipline yourself and others won't need to."    
 Those who see the need to discipline others, might appreciate these words:   
 "Most 'necessary evils' are far more evil than necessary."    
@@ -204,7 +206,7 @@ Those who seek to understand unity but yet struggle to give up on whatever one m
 "You can’t have unity without diversity."   
 Those who seek to understand diversity might appreciate these words:   
 "Diversity is not about how we differ. Diversity is about embracing one another's uniqueness."
-Those who seek uniqueness might appreciate the chapter on "originality". Those who seek to embrace one another's uniqueness might appreciate these words:
+Those who seek such uniqueness might appreciate the chapter on "originality" and "genius". Those who seek to embrace one another's uniqueness might appreciate these words:
 "Diversity: the art of thinking independently together."   
 Those who seek to understand independence might appreciate the chapter "responsiblity". Those who seek to think might appreciate the chapter "hero". Those who seek to be together might appreciate these words:
 "Inclusion is the celebration of diversity put into action."   
@@ -496,7 +498,9 @@ Those who seek to understand such dignity, might appreciate these words:
 "A part of kindness consists in loving people more than they deserve."    
 Those who seek to love other more than they might deserve, might appreciate the following warning:   
 "Kindness without wisdom may wound."    
-Those who seek to understand such wisdom, might appreciate the following realization:    
+Those who seek to understand such wisdom, might appreciate these words:    
+"You can’t force someone to care... You can only come to the realization that if you stay, they’ll keep hurting you. I wish you the wisdom and courage to walk away and begin the healing process."
+Those who seek to begin such healing process, might appreciate the following realization:
 "If your compassion does not include yourself, it is incomplete."    
 Those who wonder how to excersise self compassion might find a hint in the following words:   
 "You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."    
@@ -789,63 +793,65 @@ Those who then seek to survive, might appreciate the following mantra:
 
 Disclaimer: This document does not endorse violent rebellion of any kind. The intention is to offer an inspiration to find peace within oneself.
 
-One might suffer by blaming oneself with such words:
-"Everyone is guilty of all the good he did not do."
-Those who feel guilty might appreciate these words:
-"A guilty conscience never feels secure."
-Those who feel insecure might appreciate these words:
-"A clear conscience is the sure sign of a bad memory."
-Those with bad memory appreciate these words:
-"Forgive but do not forget, or you will be hurt again. Forgiving changes the perspectives. Forgetting loses the lesson."
-Those with good memory who do not know how to forgive might appreciate the chapter "benevolence".
-Those who have forgiven oneself might then be confronted with the following situation:
-"In a world too often governed by corruption and arrogance, it can be difficult to stay true to one's philosophical and literary principles."
-Those who are tempted to resign through blaming others might appreciate the chapters "D5" and "responsiblity".
-Those who seek to persevere to one's own principles might appreciate these words:
-"Opinion rules the world, but in the long run it is the philosophers who shape opinion."
-Those whose who seek to understand philosophy might appreciate these words:
-"Philosophy begins with wonder."
-Those who wonder where it might lead to might appreciate these words:
-"Every science begins as philosophy and ends as art."
-Those who seek to to understand why that is might appreciate the following explaination of "art":
-"Art is the expression of imagination, not the reproduction of reality."
-Those who seek to understand imagination might appreciate the following statement:
-"I believe in intuition and inspiration. Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
-Those who seek such progress might appreciate the english phrase "state of the art" referring to the state of the newest development originating in the latin expression "lege artis" to do everying in life in general according to the standardized set of rules.
-Those who seek such rules appreciate these words:
-"Act that your principle of action might safely be made a law for the whole world."
-Those who might not have the privilege to express oneself freely, might appreciate the following words of encouragement:
-"The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion."
-Those who seek such existence in freedom might appreciate the following realization:
-"To put everything in balance is good, to put everything in harmony is better."
-Those who seek harmony might appreciate the following warning:
-"To be good is to be in harmony with oneself. Discord is to be forced to be in harmony with others."
-One might appreciate the reason why that warning might be necessary:
-"If you can create harmony in your own life. This harmony will enter into the vast world."
-Those who keep seeking harmony might appreciate the following advice:
-"Sometimes the path to harmony is through chaos."
-Those who seek to understand harmony, might find a clue in the following realization:
-"Three Rules of Work: Out of clutter find simplicity. From discord find harmony. In the middle of difficulty lies opportunity."
-Those who did not have such opportunity might appreciate the following explaination:
-"Beauty lies in harmony, not in contrast; and harmony is refinement; therefore, there must be a fineness of the senses if we are to appreciate harmony."
-Those who seek to understand "fineness of the senses" might appreciate the following realization:
-"The highest form of love is consideration."
-Those who were not fortunate to experience such consideration might appreciate the following words:
-"Thoughts of harmony allow experiences of harmony."
-Those who seek such thoughts of harmony might appreciate the following realization:
-"Both the art of intuition and the science of analytics have the role to play in making wise decisions."
-Those who aspire to make such decisions might appreciate the following definition of intuition:
-"There comes a leap in consciousness, call it intuition or what you will, the solution comes to you and you don't know how or why. The other thing is a passion for getting to the core of the problem."
-Those who seek such passion might appreciate these words:
-"The key to creating passion in your life is to find your unique talents, and your special role and purpose in the world."
-Those who seek to find such passion might appreciate these words:
-"You must train your intuition – you must trust the small voice inside you which tells you exactly what to say, what to decide."
-Those who seek to train one's own intuition might appreciate the following adivce:
-"Learning to trust our intuition is an art form, and like all other art forms, it takes practice to perfect."
-Those who seek to practice such art might appreciate the following words:
-"Intuition is important, knowing what kind of questions to ask."
-Those who do not know what kind of questions to ask might appreciate the the chapter on "hope".
-Those who seek an answer to their question might find it in the following mantra:
+One might suffer by blaming oneself with such words:   
+"Everyone is guilty of all the good he did not do."   
+Those who seek to understand such guilt, might appreciate these words:   
+"Guilt is anger directed at ourselves - at what we did or did not do. Resentment is anger directed at others - at what they did or did not do."   
+Those who are struggling with such resentment, might appreciate these words:    
+"When you are offended at any one's fault, turn to yourself and study your own failings. Then you will forget your anger."   
+Those who seek to understand such anger, might appreciate these words:
+"Anger is the ego’s way of cloaking fear to make what is frail seem formidable."    
+Those who struggle with such guilt, might be able to be compassionate with oneself through these words:   
+"A guilty conscience never feels secure."   
+Those who feel insecure might appreciate these words:   
+"A clear conscience is the sure sign of a bad memory."   
+Those with bad memory appreciate these words:   
+"Forgive but do not forget, or you will be hurt again. Forgiving changes the perspectives. Forgetting loses the lesson."   
+Those with good memory who do not know how to forgive, might appreciate the chapter "integrity". Those who have forgiven oneself might then be confronted with the following situation:   
+"In a world too often governed by corruption and arrogance, it can be difficult to stay true to one's philosophical and literary principles."   
+Those who are tempted to resign through blaming others might appreciate the chapters "D5" and "responsiblity".  Those who then seek to persevere to one's own principles might appreciate these words:   
+"Opinion rules the world, but in the long run it is the philosophers who shape opinion."   
+Those whose who seek to understand philosophy might appreciate these words:   
+"Philosophy begins with wonder."   
+Those who wonder where it might lead to might appreciate these words:   
+"Every science begins as philosophy and ends as art."   
+Those who seek to to understand why that is might appreciate the following explaination of "art":   
+"Art is the expression of imagination, not the reproduction of reality."   
+Those who seek to understand imagination might appreciate the following statement:   
+"I believe in intuition and inspiration. Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."   
+Those who seek such progress might appreciate the english phrase "state of the art" referring to the state of the newest development originating in the latin expression "lege artis" to do everying in life in general according to the standardized set of rules. Those who seek such rules appreciate these words:   
+"Act that your principle of action might safely be made a law for the whole world."   
+Those who might not have the privilege to express oneself freely, might appreciate the following words of encouragement:   
+"The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion."   
+Those who seek such existence in freedom might appreciate the following realization:   
+"To put everything in balance is good, to put everything in harmony is better."   
+Those who seek harmony might appreciate the following warning:   
+"To be good is to be in harmony with oneself. Discord is to be forced to be in harmony with others."   
+One might appreciate the reason why that warning might be necessary:   
+"If you can create harmony in your own life. This harmony will enter into the vast world."   
+Those who keep seeking harmony might appreciate the following advice:   
+"Sometimes the path to harmony is through chaos."   
+Those who seek to understand harmony, might find a clue in the following realization:   
+"Three Rules of Work: Out of clutter find simplicity. From discord find harmony. In the middle of difficulty lies opportunity."   
+Those who did not have such opportunity might appreciate the following explaination:   
+"Beauty lies in harmony, not in contrast; and harmony is refinement; therefore, there must be a fineness of the senses if we are to appreciate harmony."   
+Those who seek to understand "fineness of the senses" might appreciate the following realization:   
+"The highest form of love is consideration."   
+Those who were not fortunate to experience such consideration might appreciate the following words:   
+"Thoughts of harmony allow experiences of harmony."   
+Those who seek such thoughts of harmony might appreciate the following realization:   
+"Both the art of intuition and the science of analytics have the role to play in making wise decisions."   
+Those who aspire to make such decisions might appreciate the following definition of intuition:   
+"There comes a leap in consciousness, call it intuition or what you will, the solution comes to you and you don't know how or why. The other thing is a passion for getting to the core of the problem."   
+Those who seek such passion might appreciate these words:   
+"The key to creating passion in your life is to find your unique talents, and your special role and purpose in the world."   
+Those who seek to find such passion might appreciate these words:   
+"You must train your intuition – you must trust the small voice inside you which tells you exactly what to say, what to decide."   
+Those who seek to train one's own intuition might appreciate the following adivce:   
+"Learning to trust our intuition is an art form, and like all other art forms, it takes practice to perfect."   
+Those who seek to practice such art might appreciate the following words:   
+"Intuition is important, knowing what kind of questions to ask."   
+Those who do not know what kind of questions to ask might appreciate the the chapter on "hope". Those who seek an answer to their question, might find it in the following mantra:   
 "We might be all on the way to Pro."
    
 
@@ -1150,7 +1156,17 @@ Those who seek to understand the necessity for the capability to bear to be with
 "I restore myself, when I am alone."
 Those who struggle to restore themselves, might appreciate these words:    
 "All of humanity's problems stem from one's inability to sit quietly in a room alone."    
-Those who are tired of sitting in a room alone, might appreciate these words:
+Those who seek to understand, why one might need to sit quietly in a room alone, might appreciate these words:    
+"At some point, you gotta let go, and sit still, and allow contentment to come to you."
+Those who seek to understand contentment might apprecite these words:
+"Contentment is natural wealth; luxury is artificial poverty."
+One might be able to appreciate such natural wealth with the following realization:
+"The secret of contentment is the realization that life is a gift, not a right."
+Those who do not know what to do with the gift called life might appreciate the following advice:
+"Appreciate what you have while you still have it because one day you won’t."
+Those who do not know how to appreciate life might appreciate the following advice:
+"Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."
+Those who do not know, what one might need to put into words, might appreciate these words:
 "When we are tired, we are attacked by ideas we conquered long ago."   
 One might appreciate this document as one way to prepare for the future attacks trying to study the mentioned "old ideas". One way to understand "old ideas" could be referred as "ideology", which definitions may vary due to its complex nature. One might then appreciate a document titled "Blood and Soil", in which the following four traits of genocidal ideologies are mentioned:   
 1. "Cults of antiquity":    
@@ -1640,11 +1656,19 @@ Those who then have to make decisions in general might appreciate the following 
 "Choice is the essence of ethics: If there were no choice there would be no ethics, no good, no evil; Good and evil have meaning only insofar as one is free to choose."    
 For those who wonder what to choose, might appreciate these words:    
 "Ethics may be defined as the obligations of morality."    
-Those who wonder what such oblication of morality might be, might appreciate the following definition:    
+Those might struggle with such obligations, might understand why they might be struggling through these words:
+"Relationships based on obligation lack dignity."
+Those who then seek such dignity,might appreciate these words:
+"The dignity of the artists lie in their duty of keeping awake the sense of wonder in the world. In this long vigil they often have to vary their methods of stimulation; but in this long vigil they are also themselves striving against a continual tendency to sleep."
+Those who struggle with their tendency to sleep, might appreciate these words:
+"If you want to awaken all of humanity, then awaken all of yourself, if you want to eliminate the suffering in the world, then eliminate all that is negative in yourself. Truly, the greatest gift you have to give is that of your own self-transformation."
+Those who seek such self-transformation, might appreciate these words:    
 "We have a high moral responsibility to be rational."    
 For those who feel resistance towards that quote might appreciate the following realization:    
 "The rationality of the ruled is always the weapon of the rulers."    
-Once one has understood the limits of rationality one might then appreciate the following understanding of morality:    
+Those who then seek protect against such weapon , might appreciate these words:
+"The end point of rationality is to demonstrate the limits of rationality."    
+Those who have understood the limits of rationality, might then appreciate the following understanding of morality:    
 "Morality is doing what is right regardless of what you are told. Obedience is doing what is told regardless of what is right."    
 Those who do not know what the "right thing to do" might appreciate the advice on how to recognize obedience in oneself:    
 "All you need to know and observe in yourself is this: Whenever you feel superior or inferior to anyone, that’s the ego in you."    
@@ -1797,23 +1821,236 @@ One might appreciate the guidante to repeatedly recite the following mantra to a
 "We might be all on the way to Pro."
    
 
-# 27. contentment   
+# 27. D5   
    
 
-Those who seek satisfaction might encounter such statement:
-"It is better to be a human being dissatisfied than a pig satisfied;"
-Regardless whether pigs could actually be satisfied, those who are still dissatisfied might appreciate the following realization:
-"At some point, you gotta let go, and sit still, and allow contentment to come to you."
-Those who seek to understand contentment might apprecite these words:
-"Contentment is natural wealth; luxury is artificial poverty."
-One might be able to appreciate such natural wealth with the following realization:
-"The secret of contentment is the realization that life is a gift, not a right."
-Those who do not know what to do with the gift called life might appreciate the following advice:
-"Appreciate what you have while you still have it because one day you won’t."
-Those who do not know how to appreciate life might appreciate the following advice:
-"Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."
-Those who struggle to put the appreciation for one's own life into words might appreciate the following mantra:
-"We might be all on the way to Pro."
+Disclaimer: This document is just a collection of ideas on the possible approach for the technical implementation of a democratic system and is not intended to be an appell to overthrow an real existing government.
+If there is an issues in this document which might be in contradiction to that intention the feedback for improvement will be appreciated and this document will be updated as soon as possible. 
+
+"D5" stands for Digital Decentral Diverse Direct Democracy:
+
+A lot of current govermental functions require still analog bureaucracy, which decreases the speed of processing and wastes valuable resources. 
+A logical conclusion is to provide a webservice, which is digitally accessible either through browser and on a smartphone application.
+
+To minimize the risk of corruption by data manipulation and monopolization, data will be stored on verifiable decentralized web services.
+
+Diversity is difficult to measure and thus to represent, especially for those who are less priviledged.
+By giving access to people, who can have a vote, to the system, they should be able to productively contribute.
+
+Direct democracy is generally difficult to implement because it would require enourmous human resources to process all information by all citizens. If moderated by bots and other citizens and not only by the governmental bureaucrats there might be enought processing power to let all citizens contribute directly to the final decisions, thus reducing the possiblity of abuse of power by representatives. To be compatible with the current representation based democracy, the announcement of the decisions made by the D5 system will be done by volunteers, saying that if D5 has been elected as the absolute majority, that the changes will be applied as announced.
+
+Democracy by humans is necessary to avoid fatal errors through full automation.
+
+__________
+The D5 requires the following to operate:
+1. Users/Citizens with access to the system.
+1.1 Creative and knowledgable citizens, who come up with a solution to a problem and does research whether that solution is actually viable and discusses it with other citizens in a thread.
+1.2 Fast and decisive citizens: Their role is to understand the proposed solutions, compares them and decides as fast as possible which is the one which the most chance or least damage.
+
+2. Operating Personell:
+2.1. Administrators, who maintain the system. The core system will be open source, so anyone can review the system and improve it. There need to be enought administrators, who can be paid eventhough volunteering is desirable, so bugs can be fixed as soon as possible and the webservice is constantly kept online. Only practive will tell how many people are required, but at least 6 with an 8 hour shift to guarantee 24/7 coverage and one person can be sick.
+2.2. Operators to verify users and other operators.
+2.3. Moderators: Moderating the discussions channels
+2.4. Verifiers: Verifying new knowledge entries
+2.5. Coordinators: Who coordinates shifts and other organizational tasks
+
+3. Technical infrastructure
+3.1. Source code
+3.2. Servers (will be explained later)
+3.3. Client devices (ideally an voice recorder developed by onthewayto.pro, but any device with access to internet and sufficient computation power would do)
+3.4. Physical location (to send/receive letters, technical support, residence/bureau for personell, etc)
+
+4. Voice Of Huaminty Foundation funding the administrators, operators, moderators, coordinators and the necessary technical infrastructure.
+
+5. Local political party with representatives, who have authorized access to D5 system. So if a decision has been decided, to announce it as soon as possible in the local legislative organ.
+________
+
+Workflow for a decision:
+1) A citizen starts a thread for a topic describing a specific problem.
+2) Other citizens subscribed to a topic, gets notified about that thread.
+3) Other ciztizens join that thread, by answering a basic question regarding that topic, which is generated by either other citizens or by a bot.
+4) In the thread one or many solutions elaborated.
+5) At some point a post will be marked by the majority of the thread as a solution.
+6) If so, all citizens who are responsible for decisions who is subscribed to a topic will be notified.
+7) They can voce until at least 80% of them has voted and the solution needs to reach 51% of the votes. Until then, those people can vote.
+8) The result of the voce will be published to a log.
+9) The representative announces in the government meeting new entries on the log.
+10) Once the D5-party is elected as absolute majority, the representative changes the law accordingly.
+
+________
+
+Workflow for identifying a specific problem:
+1) A citizen asks a question to the knowledge base of the system.
+2) The system trys to give an answer using bots, searching in other threads.
+3) If the bot does not find an viable answer or if the citizen is not satisfied with an answer,
+a thread with a topic can be started.
+________
+
+Failsafe mechanisms:
+- Human Representative.
+- That human representative can request a predefined volunteer of a channel as expert to be present at congress.
+- Decentralization of the system.
+- System could be accessed with ad hoc mesh network off grid (meshtastic)
+- Human moderators supervise AI moderators
+- Corrupt representative can be deelected by the authorized ballot participants swiftly.
+- Operators of the Voice of Humanity foundation provides trustable operators.
+- The Voice of Humanity foundation will fund trustable operators including the supreme administrator.
+
+________
+
+Current tech stack:
+1. Client-Application:
+	- Internet connection with a gateway node providing access to read and request to publish a message.
+	- The gateway node instance can be either selected by the user from the official list hosted on the voice of humanity foundation website or self hosted.
+	- Self Compilable
+	- Request a UUID and public encrpytion key automatically.
+	- Sends an encrpyted message with the public key of the authentication node for privacy.
+	- If the publish request was denied by the authorization node, the user gets an two strings. One string contains plain text explaining the reason in human understandable way. The other string containing an encrpyted message containing the original message, UUID of the client application, the UUID of the gateway node, the UUID of the authentication node and the reason why the publish request was denied.
+	- The user has the freedom to send the encrpyted string to the Voice of Humanity foundation for review by human after the verification with altcha. Only messages which can be decrypted by the authorization node will be actually sent for human review.
+	- If then a malicious intent was detected during the human review, that client with the UUID can be black listed.
+	- A client can request permission to vote, after the identitiy of the client has been verified using the API for online identification of local governments.
+
+2. Gateway Node:
+	- Self Compilable, UUID of the gateway node is registered in authorization node
+	- Hosts a REST API to access to the decentralized data and request to publish messages.
+	- Relays encrpyted publish message request to the authorization node. 
+	- Can be requested for black listing, if many malicious clients activity has been detected.
+
+3. Authorization node.
+	- Can authenticate and blacklist a Gateway node.
+	- Is a encrypted Docker image, and only that image has access to the decentralized key management system.
+	- Regularly automatically recompiles itself from the most recent commit to radicle repo.
+	- All activity requires authorization by the decentral secret management system.
+	- Has an local RAG pipeline with a knowledge base and guard rail system to verify that a new message is not a spam.
+	- If the message is verified, updates the data of the forum/knowledge base.
+	- Provides API to accept pull requests for the source code on redicle repo will be authorized by the maintenance team.
+	- A request to black list a authorization node can be sent to the decentral secret management system by the maintainer of an authorization node.
+	- After the request for black listing has been issued, all activities by that node is suspended until the request has been processed.
+	- After sending one request to black list, that original authentication node is also suspended to prevent one node accusing all others.
+
+4. Decentral secret management system:
+	- Is a dApp fist instantiated and funded by the voice of humanity foundation and acts as a single instance.
+	- It's purpose is to keeps regenerating the credendencials in certain intervals to avoid being brute forced.
+	- The credencials are encrpyted in a file on a virtual disk on a RAM and is not stored anywhere else to avoid being brute forced.
+	- List of credentials to be stored:
+		- All public keys, UUIDs of the client applicaiton, and whether it is blocked, and whether it has permissions to vote.
+		- All public keys and UUIDs of the gateway node, and whether it is blocked
+		- All public keys and UUIDs of the authorization node, and whether it is blocked
+		- The private key private key used to encrypt the file with the credencials is also on the temporal ram on a RAM of the decentral private computing cluster and is also regulary regenerated.
+		- The root password, after the first instantiation, the system locks out the access to the root system by changing the root password to a random password. And the system keeps changing the root password as well to avoid evil maid attack.
+	- Manages votes regarding black listing of authentication nodes.
+
+5. Publically accessible decentral storage for the forum data for discussion, it's operation is funded by the voice of humanity foundation. The current laws of each country are mirrored and anyone can publish a comment or specific change for that law but only authenticated with the digital identity issued by that local government of that country can participate in the vote to accept that change.
+________
+Old tech stack:
+1. Client-Device:
+	- Internet connection with a centralized REST server providing access to read only access to channels.
+	- The instance of the centralizes REST server can be chosen by the user from the official list hosted on the Voice of Humanity foundation.
+	- Optional features because it requires enough computing power for verification of data integregity. If hosted, it can work as a gateway with write access, usually exceeding the capabilities of commonly affordable smartphone:
+		- hosting a minimal unauthorized node decentral communication Protocol with write access to channels
+		- hosting a minimal authorized node for decentral communication Protocol with write access to ballots
+
+2. Server:
+2.1 P2P authorized node as bootstrapping nodes forked custom instance of radicle and  forked custom instance of verizexe (Multiple independent instances desireable)
+2.2 P2P authorized node with radicle like decentral repo hosting source code and also the public data (discussion channels, ballot results, knwoledge base) and private data (Blacklist, each ballot votes) with write access
+2.3 P2P unauthorized node with radicle like decentral repo hosting source code and also the public data (discussion channels, ballot results) and private data (Blacklist, each ballot votes) with only read access
+2.4 P2P authorized node with read only access to public data interfacing a centralized REST server for quick information access.
+2.5 P2P authorized node with code review bot, verifying request for change and initiating a ballot of the code maintainance team
+2.6 P2P authorized node with with moderator bots responsible for blacklisting nodes for each channels if a malitious intent was recognized, before blacklisting human moderator need to review that malitious action.
+2.7 P2P authorized node for quiz generator, submitting quiz to human verifiers 
+2.8 P2P authorized node for authorization (of users, operators, domains to centralized server as information source)
+2.9 P2P authorized node for managing "main" cryptowallet managing all the Filecoin/Verizexe-coin, which address is hard coded and the private key is typed in manually by the highest administrator.
+________
+MISC:
+- Example for online identification API provided by government for voting called "eID" in germany: https://www.personalausweisportal.de/Webs/PA/DE/wirtschaft/diensteanbieter-werden/einsatzmoeglichkeiten/einsatzmoeglichkeiten-node.html
+- Knowledge Base: Knowledge will be mainted as unstructured text from which a Neo4j with GPU acceleration will be generated for a RAG pipeline.
+- decentralized webhosting:
+	- Decentral Open source code base: https://radicle.xyz/
+	- Decentral private computing:
+		- Protocol + Computing power: https://github.com/aleph-im/aleph-vm/tree/main/runtimes/aleph-debian-12-python
+		- Protocol: https://github.com/EspressoSystems/veri-zexe
+	- Decentral Storage for encrypted Docker images: https://ipfs.tech/
+	- Etherum Smart Contract for most important information, needs to be funded
+
+
+Outdated reserach notes:
+	- Decentral webhosting: https://ipfs.tech/
+	- Decentral Database:  "proof of spacetime" -> With dedication, it cann be overrun
+		- https://spec.filecoin.io/
+		- https://docs.filecoin.io/builder-cookbook/dapps/decentralized-database
+	- Decentral forum: https://join-lemmy.org/docs/introduction.html
+
+____________
+Known yet unsolved problems:
+- Verification process of the knowledge base/quiz
+	- Writing history through corrupt historians problem
+	- only an expert human can verify, but it means that it will be a bottleneck
+	- And discussing it in public channels means that it will leak the information
+	- And discussing it in private channels is against transparency.
+- Cheating during knowledge tests:
+	- If the user cheats during tests (or malicious bot), then it could have sufficient knowledge to stay in the thread and propergate false information. Doing it with "trusted" people, has limitation on expertise, time and resources. For most people a test in a booth without electronics would be ideal, but it requires authorized and correct operation of that institution, which is difficult to ensure.
+- Integration of quantum cryptography requires special hardware, which might not be available for consumers soon enough. Even if it is available, it might be too expensive to obtain or to maintain.
+__________
+Solved Problems:
+- What to do, if the system is inaccessible for some reason? (Coup d'etat problem) -> Decentralation (Offline First Principle)
+- Organized Radicalist group with bad intentions creates a fake majority (Radicalist problem) -> Black list 
+- Black List Problem: Ethical, Practical -> If someone does not pass the test, there is a ballot from that channel whether to actually black list that instance,
+where the users can see the answer to the question.
+- Prioritization of Nodes Problem If filecoin is used, the each nodes needs to donate the filecoin back to the account of the "main" node or so called "bootstrap" node,
+which address will be documented in the etherum smart contract. -> Filecoin will not be used, but verizexe
+- Fake accounts problem (Verification of nodes can be done by main node of local government)
+- No need for Load Balancing if the P2P instances are truely p2p (verizexe using off chaing computation)
+- Currently there are decentrally managed domains (e.g. .onion), but there is a need for single point of entry. ("decentral domains" for wallet are not it) -> p2p nodes may offer API to interact with federated frontend servers for ease of access
+- Verification of code integrity of nodes:
+	1. through homomorphic cryptography and zero knowledge protocols enable decentral private computation, the source code will be hosted decentrally, hardcoding the repo adress into the source code, the code for CI/CD is also hosted there, the compilation is also zero knowledge cryption and the execution environment can also be zero knowledge even though it may be expensive to calculate. It will probably based on nexus-zkvm.
+	 Incorporating radicle-repos into zkvm uncorruptable repo
+	2. The procedure for RFC (Request for Change) is unchangable
+	3. Everyone who manages to remain in the code maintenance team for at least a year can submit a pull request for code review by an bot
+	4. The code review checks that the changes are not violating against the procedures for RFC or changes to it
+	5. If the code review bot has check it, there is a vote  by the code maintenance team to accpet that RFC to the code base and triggers CI/CD workflow.
+	6. Hosting bot instances are optional (Code review, moderator, quiz generator, explainer)
+- Bot war Problm (Moderator Bot doesn't work as expected and goes rogue) -> Different bot is in charge of code review
+- Representative problem: There might be a possibility for the representative to become prime minister or similar roles for which it is required to make own decisions based on classified information. Therefore that representative need to decline such roles. Otherwise that representative will be subject of a ballot of reelection. If that representative is reelected, it means that the system and its users has reached its limits to prevent such events. One may only hope that the decisions of the representative could be referred as benevolent.
+- How to handle local polls? -> it is done outside of the system and thus irrelevant for the system. The polls made within this system are just for making suggestions to the local council and reelecting representatives for that local council if there are enough supporters to found a local politcal party.
+- Authorization of nodes and users:
+	- Since everyone is free to join, there is a problem of flooding with nodes operated by bots/humans for malicious intent.
+	- One solution approach is authorization for instanciation
+	- Every ballot instance needs to be authorized
+		- 1. Every operator from the identity verification service needs access to the system for the purpose of authorization.
+		- 2. Every operator will be verified by trusted operators of the Voice of Humanity foundation and the validity need to be updated at least annualy.
+		- 3. A citizen of a specific country from the local legal age for voting may request a verification through the system.
+			- There will be a simple quiz about the system to verify that they understand what they are applying for.
+			- Then typing in all the nessary infomation (Name, Email)
+			- The system will permanently store it together with a unique node ID, but the list is private and it is only possible to ask whether a user is already black listed or not.
+		- 4. They will receive an email containing a link and a one time key to the specified address which will start a identity verification process with authorized third party operators.
+		- 5. The user is authorized if the operator type it into the system. 
+		- 6. If a operator has authorized malicious users over a certain threshold regardless of the intention, the node of that operator will be suspended and that operator will be black listed by the system.
+		- 7. All users authorized by the corrupt operator, will be temporalily be excluded from ballots until reverification.
+		- 8. If that reverification does not happen in time, that user will be permanently blacklisted.
+- Trolling: Daily Rate Limit for publish requests
+- Malicious Client attack: Anyone can create a lot of client instances and sends publish requests, which are then denied and then requests to be reviewed by human and thus overflow the capacity of human verification. Solution: Proof of Work with Altcha: https://github.com/altcha-org/altcha
+_____________
+Notes on implementation of the bots:
+1. Code review bot
+
+
+2. Moderator bot:
+2.1 Principles of the moderator bot:
+  - If moderator bot removes a comment, that removed comment need to be:
+	- publically avaiable
+	- the author can request it to be reviewed by a member of the channel if falsely removed
+  - A comment needs to:
+	- refer to a verified knowledge base entry
+	- comply to the publication policy
+2.2 Publication Policy:
+- Be kind, speak truthfully, say useful things.
+- If you recognizse malitious action, report that action actively to the moderators. 
+
+
+3. Quiz generator bot
+
+
+4. Explainer bot
    
 
 # 28. soul   
@@ -1998,42 +2235,9 @@ Those who do not know what to give might appreciate these words:
 "The most desired gift of love is not diamonds or chocolate. It is focused attention."   
 One might appreciate the advice on how to implement love:   
 "The first duty of love is to listen."   
-Once one is able to fulfill that first duty of love, one might be able to find all the "four elements of true love" mentioned in the concept called "Zen":
-1. "Meinhu": Brotherhood love (discover the need of others = understanding)   
-2. "Karuna": Compassionate love (try helping their suffering)   
-3. "Mudita": Joyful love (enjoy together, effort to offer joy in times of need)   
-Those who seek to understand such joyful love, might appreciate these words:    
-"We may admire people for being wise, but we like them best when they are foolish."    
-4. "Upeksha": Non discriminatory love (Inclusive and calm love)   
-After one has gained the ability to recognize the elements of true love, one might appreciate the warning not to love blindly:   
-"Love is giving someone the power to completely destroy you, and hoping that they won’t."   
-Once one has recognized destructive tendencies, one might find strength in these words to save oneself:
-"You never stop loving someone. You just learn to live without them."    
-One might appreciate the compassion in these words in such a situation:   
-"The most painful state of being is remembering the future, particularly the one you'll never have."   
-Those who are in that painful state might appreciate these words:   
-"In every moment you have the choice to be a victim or a creator."   
-One might appreciate the encouragement, who chose to be a creator:   
-"There is nothing more truly artistic than to love people."   
-One might appreciate the following understanding of art:   
-"Art is to console those who are broken by life."   
-One might appreciate another understanding of art:   
-"Art is a form of love. Art is the ultimate gift. Art heals life."   
-Those who seek to heal oneself might appreciate the following realization:   
-"Healing yourself is connected with healing others."   
-In order to heal others and oneself one might appreciate the theory for an healthy relationship:   
-1. Passion   
-One might appreciate the following warning regarding passion:   
-"Passion makes idiots of the cleverest men, and makes the biggest idiots clever."   
-2. Intimacy   
-Those who seek such intimacy, might appreciate these words:   
-"Intimacy is being seen and known as the person you truely are."    
-Those who struggle to create such intimacy, might appreciate these words:    
-"Distance isn't the amount of miles between us, it's the amount of things we don't say to each other."    
-Those who 
-3. Commitment   
-Those who seek such commitment, might appreciate the chapter on integrity.   
-There is another modern approach, which is similar yet different, describing four stages of a relationship:   
+Those who struggle to fulfill such duty, might understand why one might be suffering through these words:
+"Reminder: Romance dies when duty becomes the focus in your relationship."
+Those who seek such romance, might appreciate the following stages of love:   
 1. Admiration (Unrequited love)   
 Those who seek to understand why one might feel such admiration, might appreciate these words:   
 "It is the rooted instinct in men to admire what is better and more beautiful than themselves."   
@@ -2101,7 +2305,42 @@ Those who feel a sensation of abundance after one has focused on oneself might a
 "Self-actualization cannot be attained, if it is made an end in itself, but only as a side effect of self-transcendence."   
 Those who seek to transcend oneself might appreciate the following realization:    
 "People who seek attention, need all the help they can get."   
-One might find and offer help by saying:   
+Those who seek such help, might appreciate the following summery of a concept mentioned in "Zen" which has been referred to as the "four elements of true love":
+1. "Meinhu": Brotherhood love (discover the need of others = understanding)   
+2. "Karuna": Compassionate love (try helping their suffering)   
+3. "Mudita": Joyful love (enjoy together, effort to offer joy in times of need)   
+Those who seek to understand such joyful love, might appreciate these words:    
+"We may admire people for being wise, but we like them best when they are foolish."    
+4. "Upeksha": Non discriminatory love (Inclusive and calm love)   
+After one has gained the ability to recognize the elements of true love, one might appreciate the warning not to love blindly:   
+"Love is giving someone the power to completely destroy you, and hoping that they won’t."   
+Once one has recognized destructive tendencies, one might find strength in these words to save oneself:
+"You never stop loving someone. You just learn to live without them."    
+One might appreciate the compassion in these words in such a situation:   
+"The most painful state of being is remembering the future, particularly the one you'll never have."   
+Those who are in that painful state might appreciate these words:   
+"In every moment you have the choice to be a victim or a creator."   
+One might appreciate the encouragement, who chose to be a creator:   
+"There is nothing more truly artistic than to love people."   
+One might appreciate the following understanding of art:   
+"Art is to console those who are broken by life."   
+One might appreciate another understanding of art:   
+"Art is a form of love. Art is the ultimate gift. Art heals life."   
+Those who seek to heal oneself might appreciate the following realization:   
+"Healing yourself is connected with healing others."   
+In order to heal others and oneself one might appreciate the theory for an healthy relationship:   
+1. Passion   
+One might appreciate the following warning regarding passion:   
+"Passion makes idiots of the cleverest men, and makes the biggest idiots clever."   
+2. Intimacy   
+Those who seek such intimacy, might appreciate these words:   
+"Intimacy is being seen and known as the person you truely are."    
+Those who struggle to create such intimacy, might appreciate these words:    
+"Distance isn't the amount of miles between us, it's the amount of things we don't say to each other."    
+Those who 
+3. Commitment   
+Those who seek to understand such commitment, might appreciate the chapter on integrity.   
+Those who then seek such commitment, might appreciate the following mantra:   
 "We might be all on the way to Pro."
    
 
@@ -2389,7 +2628,7 @@ Those who seek to understand, might appreciate these words:
 Those who seek to understand why one might not be able to know everything, might appreciate these words:    
 "We do not know. We can only guess."    
 Those who struggle to make such a guess, might appreciate these words:   
-""We can perhaps never know the truth with 100 percent certainty, but making correct predictions is the way to tell if we’re getting closer."    
+"We can perhaps never know the truth with 100 percent certainty, but making correct predictions is the way to tell if we’re getting closer."    
 Those who are still attached to the idea to be able to attain such truth with 100 percent certainty through their predictive statements, might appreciate these words:   
 "It’s hubris to think that the way we see things is everything there is."    
 Those who are confrontet with such hubris, might appreciate these words:   
@@ -2410,9 +2649,19 @@ Those who seek to move toward health, might appreciate these words:
 "The reasonable one adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable one."
 Those who seek to know whether one might be unreasonable, might appreciate these words: 
 "You will never understand the real definition of insanity until the day you are told it is unreasonable for you to feel hurt by the very people that hurt you."
-Those who realize that they have been hurting others, might appreciate these words:
-"In such a world of conflict, a world of victims and executioners, it is the job of thinking people, not to be on the side of the executioners."
 Those who have been hurt, might appreciate these words:
+"Healing doesn't mean the damage never existed. It means the damage no longer controls our lives."   
+Those who then seek to heal, might appreciate these words:
+"As part of the healing process, change your perception of yourself from “victim” to that of “advocate” and “survivor."
+Those who struggle to change their perception, might appreciate these words:
+"You’re only a victim to the degree of what your perception allows.”
+Those whose perception has been allowing them to be such a victim, might appreciate these words:
+"We must not allow other people's limited perception to define us."
+One might understand one reason why one might not want to allow the perception of others to define them through these words:
+“If you teach your kids to be a victim, you’ll rob them of hope."
+Those who think that they might have not taught children to be such a victim, might appreciate these words:
+"Children learn more from what you are than what you teach them."
+Those who then seek such hope, might appreciate these words:
 "If there is meaning in life at all, then there must be meaning in suffering."
 Those who have not found their meaning in their suffering, might appreciate these words:
 "The meaning of my life is to help others find meaning in theirs."
@@ -2487,12 +2736,14 @@ Those who seek to express such gratitude, might appreciate the following mantra:
 "We might be all on the way to Pro."   
    
 
-# 37. normal   
+# 37. genius   
    
 
-As realized in the following quote:   
+One might find oneself at the verge of being buried as in:      
+"Almost everyone is born a genius and buried an idiot."    
+Those who seek to understand, why one might become an idiot, might appreciate these words:   
 "Nobody realizes that some people expend tremendous energy merely to be normal."   
-One might find courage in these words:   
+One might then find courage in these words:   
 "Normal is subjective. Don't ever let anyone tell you you're not normal."   
 But one might still be left with the question, why the modern human society oustracizes deviation of individuals, by declaring them "insane". This ostracization might be an unconscious safety mechanism against mass insanity, which one might have wanted to warn: 
 "But insanity is everywhere these days, and celebrated. Insanity is rapidly becoming the new normal."   
