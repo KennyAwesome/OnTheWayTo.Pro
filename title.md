@@ -4,4 +4,4 @@ subtitle: "Context for an open source feedback framework to establish the consen
 author: "An anonymous artist,who might be on the way to Pro."
 date: \today
 ---  
-![](./qr_en.png)
+![](./qr_en.png){width=600px}   
