@@ -6,7 +6,7 @@ echo -e "\n"
 cat ../disclaimer.txt
 echo -e "\n"
 echo "\tableofcontents"
-for i in $(seq 1 8)
+for i in $(seq 1 19)
 do
 echo -e ".\n"
 done
